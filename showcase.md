@@ -70,7 +70,7 @@ sections:
         content: |
           Bad im Obergeschoss 
         image: images/10-6a1d6639.jpg
-      - title: lorem-ipsum
+      - title: Heiße Luft
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
