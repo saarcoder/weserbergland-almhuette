@@ -29,7 +29,7 @@ sections:
         image: images/31.jpg
         content: |
           Blick zum Ebersnacken
-      - title: lorem-ipsum
+      - title: Blick
         title_url: /images/32.jpg
         image_alt: lorem-ipsum
         content: >-
