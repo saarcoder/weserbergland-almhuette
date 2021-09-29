@@ -15,7 +15,7 @@ sections:
     col_number: three
     grid_items:
       - title: Beschreibung
-        content: "Uriges Holzhaus (Massivhaus mit zentr. Ölheizung) von 120 m² auf einem 1.200 m²\_großen Grundstück direkt am Waldrand.\n\nKind und Hund können sich hier völlig gefahrlos frei auf dem geschlossenen Grundstück bewegen. 3 Schlafräume für insgesamt 5 Personen (mehr möglich).\n"
+        content: "Uriges Holzhaus (Massivhaus mit zentr. Ölheizung) von 120 qm auf einem 1.200 qm\_großen Grundstück direkt am Waldrand.\n\nKind und Hund können sich hier völlig gefahrlos frei auf dem geschlossenen Grundstück bewegen. 3 Schlafräume für insgesamt 5 Personen (mehr möglich).\n"
         actions:
           - label: Weiterlesen
             url: /docs
