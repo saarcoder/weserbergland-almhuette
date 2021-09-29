@@ -10,7 +10,7 @@ sections:
     col_number: three
     grid_items:
       - title: Winterparadies
-        title_url: /images/01.jpg
+        title_url: /images/02.jpg
         image: images/02.jpg
         content: |
           Hier können Ihre Hunde nach Lust und Laune herumtollen
