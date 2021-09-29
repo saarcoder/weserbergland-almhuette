@@ -77,9 +77,9 @@ sections:
           Sauna mit Dusche
       - title: Gut schlafen
         title_url: /images/24.jpg
+        image: images/24.jpg
         content: |
           Einzelschlafzimmer
-        image: images/24.jpg
 seo:
   title: Showcase
   description: This is the showcase page
