@@ -22,6 +22,9 @@ sections:
             style: link
       - title: Bilder
         content: >
+          ![](images/01.jpg)
+
+
           Schauen Sie doch einmal bei uns herein! Alle Bilder vom Haus und
           unserer schönen Landschaft gleich hier nach einem Klick!
         actions:
