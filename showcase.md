@@ -22,7 +22,7 @@ sections:
         title_url: /images/30.jpg
         image: images/30.jpg
         content: |
-          kleine Terrasse mit Außenkamin
+          Kleine Terrasse mit Außenkamin
       - title: Weite Landschaft
         title_url: /images/31.jpg
         image: images/31.jpg
