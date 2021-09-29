@@ -90,7 +90,7 @@ sections:
         image: images/11.jpg
         content: |
           Großer Essbereich für 6 Personen
-      - title: Ein lauschiges Plätzchen
+      - title: Lauschiges Plätzchen
         title_url: /images/07.jpg
         image: images/07.jpg
         content: |
