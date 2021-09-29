@@ -21,12 +21,13 @@ sections:
             url: /docs
             style: link
       - title: Bilder
-        content: >
-          ![](images/01.jpg)
-
-
+        content: >+
           Schauen Sie doch einmal bei uns herein! Alle Bilder vom Haus und
           unserer schönen Landschaft gleich hier nach einem Klick!
+
+
+          ![](images/01.jpg)
+
         actions:
           - label: Bilder zeigen
             url: /blog
