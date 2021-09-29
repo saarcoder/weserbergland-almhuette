@@ -69,6 +69,12 @@
   }
 }
 
+.block-hero li p {
+    margin-bottom: 0;
+    text-align: initial;
+    
+}
+
 .block-text,
 .block-hero {
   .block-buttons {
@@ -131,6 +137,11 @@
 }
 
 @media only screen and (min-width: 1001px) {
+  .block-hero ul {
+    margin: 0 auto;
+    width: 60%;
+}
+
   .block-image {
     &:not(:only-child) {
       padding-right: 2.5em;
