@@ -19,7 +19,7 @@ sections:
         image: images/05.jpg
         content: A personal theme for Unibit
       - title: Erholung pur
-        title_url: 'https://themes.stackbit.com/demos/fjord/'
+        title_url: /images/30.jpg
         image: images/30.jpg
         content: A minimal blogging theme for Unibit
       - title: Weite Landschaft
