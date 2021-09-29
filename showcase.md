@@ -14,7 +14,7 @@ sections:
         title_url: /images/02.jpg
         image: images/02.jpg
         content: |
-          Hier können Ihre Hunde nach Lust und Laune herumtollen
+          Hier können Hunde nach Lust und Laune herumtollen
       - title: "Balkon mit\_ Aussicht"
         title_url: /images/05.jpg
         image: images/05.jpg
