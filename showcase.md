@@ -66,7 +66,7 @@ sections:
           Bad im Obergeschoss 
         image: images/10-6a1d6639.jpg
       - title: Hier gehts hoch
-        title_url: lorem-ipsum
+        title_url: /images/18.jpg
         content: |
           Treppenaufgang nach oben
 seo:
