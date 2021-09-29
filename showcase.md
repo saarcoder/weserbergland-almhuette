@@ -9,7 +9,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Exto
+      - title: Winterparadies
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/02.jpg
         content: A portfolio theme for Unibit
