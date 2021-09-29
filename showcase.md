@@ -81,6 +81,7 @@ sections:
         content: |
           Einzelschlafzimmer
         actions: []
+        image: images/24.jpg
 seo:
   title: Showcase
   description: This is the showcase page
