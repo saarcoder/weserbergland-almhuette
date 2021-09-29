@@ -68,7 +68,7 @@ sections:
       - title: lorem-ipsum
         title_url: lorem-ipsum
         content: |
-          Hier gehts hoch
+          
 seo:
   title: Showcase
   description: This is the showcase page
