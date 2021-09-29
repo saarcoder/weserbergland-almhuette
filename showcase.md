@@ -57,9 +57,9 @@ sections:
           Großes Schlafzimmer
       - title: Hier gehts hoch
         title_url: /images/18.jpg
+        image: images/18.jpg
         content: |
           Treppenaufgang nach oben
-        image: images/18.jpg
       - title: Frisch und hell
         title_url: /images/20.jpg
         content: |
