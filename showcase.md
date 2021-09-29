@@ -95,7 +95,7 @@ sections:
         content: |
           Für Sterngucker und zünftige Abende
         image: images/07.jpg
-      - title: lorem-ipsum
+      - title: An den Feiertagen
         title_url: lorem-ipsum
         content: >-
           ## Lorem ipsum
