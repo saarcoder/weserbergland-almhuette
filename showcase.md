@@ -66,7 +66,7 @@ sections:
           großes Bad mit Eckbadewanne 
         image: images/20.jpg
       - title: Platz für Alle
-        title_url: /images/20.jpg
+        title_url: /images/10.jpg
         content: |
           Bad im Obergeschoss 
         image: images/10-6a1d6639.jpg
