@@ -17,7 +17,8 @@ sections:
       - title: "Balkon mit\_ Aussicht"
         title_url: /images/05.jpg
         image: images/05.jpg
-        content: A personal theme for Unibit
+        content: |
+          Blick aus dem Garten
       - title: Erholung pur
         title_url: /images/30.jpg
         image: images/30.jpg
