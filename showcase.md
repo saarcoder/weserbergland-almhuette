@@ -37,9 +37,9 @@ sections:
           Blick zum Ith
       - title: Auf Tour gehen
         title_url: /images/27.jpg
+        image: images/27.jpg
         content: |
           Unterwegs mit Freunden
-        image: images/27.jpg
       - title: Ein Ort zum Wohlfühlen
         title_url: /images/13.jpg
         image: images/13.jpg
