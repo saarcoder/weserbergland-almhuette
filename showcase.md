@@ -52,9 +52,9 @@ sections:
           Blick zur Terrasse
       - title: Zur Ruhe kommen
         title_url: /images/22.jpg
+        image: images/22.jpg
         content: |
           Großes Wohnzimmer
-        image: images/22.jpg
 seo:
   title: Showcase
   description: This is the showcase page
