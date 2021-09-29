@@ -9,7 +9,6 @@ sections:
       - label: Loslegen!
         url: /docs
         style: primary
-    image: images/bg_wolken07.jpg
   - section_id: features
     type: section_grid
     col_number: three
