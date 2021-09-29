@@ -42,6 +42,7 @@ sections:
         image: images/27.jpg
       - title: Ein Ort zum Wohlfühlen
         title_url: /images/13.jpg
+        image: images/13.jpg
         content: |
           Heimkehren und Ausspannen
         actions: []
