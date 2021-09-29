@@ -82,9 +82,9 @@ sections:
           Einzelschlafzimmer
       - title: Gemeinsam kochen
         title_url: /images/16.jpg
+        image: images/16.jpg
         content: |
           Rustikale Küche mit viel Platz
-        image: images/16.jpg
 seo:
   title: Showcase
   description: This is the showcase page
