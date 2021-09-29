@@ -72,7 +72,6 @@ sections:
         image: images/10-6a1d6639.jpg
       - title: Heiße Luft
         title_url: /images/25.jpg
-        image_alt: lorem-ipsum
         content: |
           Sauna mit Dusche
         actions: []
