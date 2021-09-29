@@ -67,7 +67,6 @@ sections:
         image: images/10-6a1d6639.jpg
       - title: lorem-ipsum
         title_url: lorem-ipsum
-        image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
