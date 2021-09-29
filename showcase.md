@@ -99,7 +99,6 @@ sections:
         title_url: /images/06.jpg
         content: |
           Kleine Weihnachtsdekoration
-        image: images/06.jpg
 seo:
   title: Showcase
   description: This is the showcase page
