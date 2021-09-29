@@ -1,7 +1,7 @@
 ---
 title: Urlaub ist da, wo man sich zu Hause fühlt ...
 seo:
-  title: Welcome to Libris
+  title: Urlaub ist da, wo man sich zu Hause fühlt ...
   description: This is the documentation page
   extra:
     - name: 'og:type'
