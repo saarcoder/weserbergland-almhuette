@@ -58,7 +58,7 @@ sections:
       - title: Neue Frische
         title_url: /images/20.jpg
         content: |
-          großes Eckbadezimmer mit 
+          großes Bad mit 
 seo:
   title: Showcase
   description: This is the showcase page
