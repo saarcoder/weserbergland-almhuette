@@ -1,6 +1,8 @@
 root_docs_path: /docs
 sections:
-  - ausstattung
+  - about
+  - getting-started
+  - ui-components
   - tools
   - faq
   - community
