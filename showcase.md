@@ -55,7 +55,7 @@ sections:
         image: images/22.jpg
         content: |
           Großes Wohnzimmer
-      - title: lorem-ipsum
+      - title: Neue Frische
         title_url: lorem-ipsum
         content: |
           Neue Frische
