@@ -63,6 +63,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: images/22.jpg
 seo:
   title: Showcase
   description: This is the showcase page
