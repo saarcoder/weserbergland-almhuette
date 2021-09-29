@@ -62,9 +62,9 @@ sections:
           Treppenaufgang nach oben
       - title: Frisch und hell
         title_url: /images/20.jpg
+        image: images/20.jpg
         content: |
           großes Bad mit Eckbadewanne 
-        image: images/20.jpg
       - title: Platz für Alle
         title_url: /images/10.jpg
         content: |
