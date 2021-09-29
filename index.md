@@ -9,6 +9,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
+    image: images/5.jpg
   - section_id: features
     type: section_grid
     col_number: three
