@@ -86,6 +86,7 @@ sections:
         content: |
           Rustikale Küche mit viel Platz
         actions: []
+        image: images/16.jpg
 seo:
   title: Showcase
   description: This is the showcase page
