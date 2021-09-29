@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Welcome to Libris
+      value: Urlaub ist da, wo man sich zu Hause fühlt ...
     - name: 'twitter:description'
       value: Ein uriges Holzhaus am Waldrand
 layout: docs
