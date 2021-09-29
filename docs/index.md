@@ -26,9 +26,9 @@ wo man sich zu Hause fühlt!
 
 ***
 
-Das urige Holzhaus (Massivhaus mit zentr. Ölheizung) von 120 qm steht auf einem 1200 qm großen Grundstück direkt am Waldrand. Ohne Gefahr können Kind und Hund sich frei auf dem geschlossenen Grundstück bewegen. Es verfügt über drei Schlafräume für insgesamt 5 Personen (bei einer größeren Gruppe könnten zusätzlich 2 Personen auf der Wohnlandschaft übernachten und 1 Person auf einem Zustellbett, ausreichend Bettwäsche etc. ist vorhanden).
+Das urige Holzhaus (Massivhaus mit zentr. Ölheizung) von 120 qm steht auf einem 1200 qm großen Grundstück direkt am Waldrand. Ohne Gefahr können Kind und Hund sich frei auf dem geschlossenen Grundstück bewegen. Es verfügt über drei Schlafräume für insgesamt 5 Personen (bei einer größeren Gruppe könnten zusätzlich 2 Personen auf der Wohnlandschaft übernachten und 1 Person auf einem Zustellbett, ausreichend Bettwäsche etc. ist vorhanden).  
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
+Ein Kinderbettchen, ein Badezimmer mit einer Eckbadewanne und integrierter Dusche, ein separates Gäste-WC mit großzügiger Waschgelegenheit und die Dusche im Saunabereich vervollständigen den Komfort.  
 
 [Morbi ac vulputate enim](https://stackbit.com)
 
