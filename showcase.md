@@ -32,7 +32,6 @@ sections:
         title_url: /images/32.jpg
         content: |
           Blick zum Ith
-        actions: []
         image: images/32.jpg
       - title: Auf Tour gehen
         title_url: /images/27.jpg
