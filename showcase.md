@@ -97,7 +97,7 @@ sections:
         image: images/07.jpg
       - title: An den Feiertagen
         title_url: lorem-ipsum
-        content: 
+        content: |
 seo:
   title: Showcase
   description: This is the showcase page
