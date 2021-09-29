@@ -25,7 +25,8 @@ sections:
       - title: Weite Landschaft
         title_url: /images/31.jpg
         image: images/31.jpg
-        content: Medium inspired blogging theme for Unibit
+        content: |
+          Blick zum Ebersnacken
 seo:
   title: Showcase
   description: This is the showcase page
