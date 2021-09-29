@@ -21,7 +21,8 @@ sections:
       - title: Erholung pur
         title_url: /images/30.jpg
         image: images/30.jpg
-        content: A minimal blogging theme for Unibit
+        content: |
+          kleine Terrasse mit Außenkamin
       - title: Weite Landschaft
         title_url: /images/31.jpg
         image: images/31.jpg
