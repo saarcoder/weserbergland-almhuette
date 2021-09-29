@@ -30,7 +30,7 @@ sections:
         image: images/31.jpg
         content: |
           Blick zum Ebersnacken
-      - title: Sommertraum
+      - title: Ein Sommertraum
         title_url: /images/32.jpg
         content: |
           Blick zum Ith
