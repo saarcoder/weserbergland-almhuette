@@ -44,7 +44,7 @@ sections:
         content: |
           Heimkehren und Ausspannen
       - title: Wohnen mit Stil
-        title_url: lorem-ipsum
+        title_url: /images/15.jpg
         image_alt: lorem-ipsum
         content: |
           Blick zur Terrasse
