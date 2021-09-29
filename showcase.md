@@ -81,7 +81,7 @@ sections:
         content: |
           Einzelschlafzimmer
       - title: Gemeinsam kochen
-        title_url: lorem-ipsum
+        title_url: /images/16.jpg
         image_alt: lorem-ipsum
         content: |
           Rustikale Küche mit viel Platz
