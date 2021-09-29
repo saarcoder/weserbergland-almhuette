@@ -65,7 +65,7 @@ sections:
         content: |
           Bad im Obergeschoss 
         image: images/10-6a1d6639.jpg
-      - title: lorem-ipsum
+      - title: Hier gehts hoch
         title_url: lorem-ipsum
         content: |
           
