@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Welcome to Libris
     - name: 'twitter:description'
-      value: This is the documentation page
+      value: Ein uriges Holzhaus am Waldrand
 layout: docs
 ---
 
