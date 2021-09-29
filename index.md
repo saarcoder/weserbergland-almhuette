@@ -32,11 +32,15 @@ sections:
         content: |
           **Übernachtung für bis zu zwei Personen:**
 
-          \<ins>Hauptsaison:\</ins> à 55,-- €
+          Hauptsaison: à 55,-- €
 
           (Saisonzeiten: 01.04.-31.10. und 20.12.-10.01.)
 
           Nebensaison: à 50,-- €
+
+          **Jede weitere Person:**
+
+          zzgl. 8,-- € / Übernachtung, Kinder bis 12 Jahren 5,-- €
         actions:
           - label: Learn More
             url: /style-guide
