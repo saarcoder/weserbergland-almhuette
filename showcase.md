@@ -94,7 +94,6 @@ sections:
         title_url: /images/07.jpg
         content: |
           Für Sterngucker und zünftige Abende
-        actions: []
         image: images/07.jpg
 seo:
   title: Showcase
