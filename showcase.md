@@ -98,6 +98,7 @@ sections:
       - title: An den Feiertagen
         title_url: lorem-ipsum
         content: |
+          Weihnachtsdekoration
 seo:
   title: Showcase
   description: This is the showcase page
