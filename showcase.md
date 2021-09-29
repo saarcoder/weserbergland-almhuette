@@ -92,6 +92,7 @@ sections:
         image: images/11.jpg
       - title: Ein lauschiges Plätzchen
         title_url: /images/07.jpg
+        image: images/07.jpg
         content: |
           Für Sterngucker und zünftige Abende
       - title: An den Feiertagen
