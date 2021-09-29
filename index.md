@@ -45,7 +45,7 @@ sections:
 
           zzgl. 8,-- € / Übernachtung, Kinder bis 12 Jahren 5,-- €
         actions:
-          - label: Learn More
+          - label: Mehr Preisinformationen
             url: /style-guide
             style: link
 seo:
