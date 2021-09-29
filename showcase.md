@@ -4,7 +4,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: Bilder
-    content: This is an optional page subtitle
   - section_id: showcase
     type: section_grid
     col_number: three
