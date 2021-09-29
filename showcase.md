@@ -91,6 +91,7 @@ sections:
         content: |
           Großer Essbereich für 6 Personen
         actions: []
+        image: images/11.jpg
 seo:
   title: Showcase
   description: This is the showcase page
