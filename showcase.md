@@ -72,9 +72,9 @@ sections:
         image: images/10-6a1d6639.jpg
       - title: Heiße Luft
         title_url: /images/25.jpg
+        image: images/25.jpg
         content: |
           Sauna mit Dusche
-        image: images/25.jpg
 seo:
   title: Showcase
   description: This is the showcase page
