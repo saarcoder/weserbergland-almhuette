@@ -35,7 +35,7 @@ sections:
           Blick zum Ith
         actions: []
         image: images/32.jpg
-      - title: Auf tour
+      - title: Auf Tour
         title_url: /images/27.jpg
         image_alt: lorem-ipsum
         content: |
