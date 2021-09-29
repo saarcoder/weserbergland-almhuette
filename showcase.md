@@ -12,7 +12,8 @@ sections:
       - title: Winterparadies
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/02.jpg
-        content: A portfolio theme for Unibit
+        content: |
+          Hier können Ihre Hunde herumtollen
       - title: "Balkon mit\_ Aussicht"
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/05.jpg
