@@ -32,4 +32,4 @@ Ein Kinderbettchen, ein Badezimmer mit einer Eckbadewanne und integrierter Dusch
 
 [Morbi ac vulputate enim](https://stackbit.com)
 
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+Der Wohnraum ist ausgestattet mit einem großen Esstisch, Wohnlandschaft, Kaminofen, offener Durchgang zur Küche, die mit Grundnahrungsmitteln (Mehl, Zucker, Salz, Gewürze) ständig bestückt ist. Geschirrspüler, Mikrowelle, Backofen, Gefrierschrank, Fondue, Racelette, Tischgrill, Außengrill und sämtliche elektrischen Küchengeräte sind vorhanden. Von Weingläsern über Küchengeschirr bis zum festlichen Essservice ist die Ausstattung komplett für mehr als 6 Personen.
