@@ -69,6 +69,7 @@ sections:
         title_url: /images/18.jpg
         content: |
           Treppenaufgang nach oben
+        image: images/18.jpg
 seo:
   title: Showcase
   description: This is the showcase page
