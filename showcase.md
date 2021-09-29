@@ -69,7 +69,7 @@ sections:
         title_url: /images/10.jpg
         content: |
           Bad im Obergeschoss 
-        image: images/10-6a1d6639.jpg
+        image: images/10.jpg
       - title: Heiße Luft
         title_url: /images/25.jpg
         image: images/25.jpg
