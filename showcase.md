@@ -15,7 +15,7 @@ sections:
         content: |
           Hier können Ihre Hunde nach Lust und Laune herumtollen
       - title: "Balkon mit\_ Aussicht"
-        title_url: 'https://themes.stackbit.com/demos/fresh/'
+        title_url: /images/05.jpg
         image: images/05.jpg
         content: A personal theme for Unibit
       - title: Erholung pur
