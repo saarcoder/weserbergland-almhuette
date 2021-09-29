@@ -56,7 +56,7 @@ sections:
         content: |
           Großes Wohnzimmer
       - title: Neue Frische
-        title_url: lorem-ipsum
+        title_url: /images/20.jpg
         content: |
           Neue Frische
 seo:
