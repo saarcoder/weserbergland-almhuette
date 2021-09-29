@@ -15,7 +15,7 @@
             },
             {
                 "label": "Docs",
-                "url": "/ausstattun",
+                "url": "/docs",
                 "style": "icon",
                 "has_subnav": false,
                 "icon_class": "facebook"
