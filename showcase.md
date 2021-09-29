@@ -31,7 +31,7 @@ sections:
           Blick zum Ebersnacken
       - title: Sommertraum
         title_url: /images/32.jpg
-        image_alt: lorem-ipsum
+        image_alt: Blick zum Ith
         content: |
           Blick zum Ith
         actions: []
