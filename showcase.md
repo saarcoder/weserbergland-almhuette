@@ -50,17 +50,8 @@ sections:
           Blick zur Terrasse
       - title: lorem-ipsum
         title_url: /images/22.jpg
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Großes Wohnzimmer
         actions: []
         image: images/22.jpg
 seo:
