@@ -40,7 +40,7 @@ sections:
           Unterwegs mit Freunden
         actions: []
         image: images/27.jpg
-      - title: lorem-ipsum
+      - title: Ein Ort zum Wohlfühlen
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
