@@ -50,7 +50,6 @@ sections:
           Blick zur Terrasse
       - title: lorem-ipsum
         title_url: /images/22.jpg
-        image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
