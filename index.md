@@ -6,7 +6,7 @@ sections:
     title: Herzlich willkommen
     content: "##### auf der Webseite der \"Almhütte\" Weserbergland!\n\n![](images/startpic.jpg)\n\n**Sie suchen ein Urlaubsdomizil...**\n\n*   idyllisch am Waldrand gelegen, mit weitem Ausblick ins Tal?\n\n*   ohne den Verkehrslärm, wo Sie nur Vogelgezwitscher hören?\n\n*   mit wunderbaren Wanderwegen, geeignet auch für Mountainbikes?\n\n*   dazu liebevoll möbliert, wo auch Ihr tierischer Gefährte willkommen ist?\n\n*   kurz, einen Ort, der die Seele streichelt, für Individualisten...?\n\n##### Dann sind Sie richtig auf der Homepage „Weserbergland-almhuette“!\n\nMöchten Sie über die Belegung informiert werden, wechseln Sie bitte auf die Seite\_[www.hundeurlaub.de](http://www.hundeurlaub.de/).\n"
     actions:
-      - label: Loslegen!
+      - label: Los gehts!
         url: /docs
         style: primary
   - section_id: features
