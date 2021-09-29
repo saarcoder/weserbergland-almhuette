@@ -92,7 +92,7 @@ sections:
         actions: []
         image: images/11.jpg
       - title: Ein lauschiges Plätzchen
-        title_url: /images/
+        title_url: /images/07.jpg
         content: |
           Für Sterngucker und zünftige Abende
         actions: []
