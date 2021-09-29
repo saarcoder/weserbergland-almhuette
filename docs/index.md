@@ -28,8 +28,3 @@ wo man sich zu Hause fühlt!
 
 Das urige Holzhaus (Massivhaus mit zentr. Ölheizung) von 120 qm steht auf einem 1200 qm großen Grundstück direkt am Waldrand. Ohne Gefahr können Kind und Hund sich frei auf dem geschlossenen Grundstück bewegen. Es verfügt über drei Schlafräume für insgesamt 5 Personen (bei einer größeren Gruppe könnten zusätzlich 2 Personen auf der Wohnlandschaft übernachten und 1 Person auf einem Zustellbett, ausreichend Bettwäsche etc. ist vorhanden).  
 
-Ein Kinderbettchen, ein Badezimmer mit einer Eckbadewanne und integrierter Dusche, ein separates Gäste-WC mit großzügiger Waschgelegenheit und die Dusche im Saunabereich vervollständigen den Komfort.  
-
-Der Wohnraum ist ausgestattet mit einem großen Esstisch, Wohnlandschaft, Kaminofen, offener Durchgang zur Küche, die mit Grundnahrungsmitteln (Mehl, Zucker, Salz, Gewürze) ständig bestückt ist. Geschirrspüler, Mikrowelle, Backofen, Gefrierschrank, Fondue, Racelette, Tischgrill, Außengrill und sämtliche elektrischen Küchengeräte sind vorhanden. Von Weingläsern über Küchengeschirr bis zum festlichen Essservice ist die Ausstattung komplett für mehr als 6 Personen.  
-
-Handtücher, Bettwäsche, Bademäntel, Hausschuhe usw. sind im Preis inbegriffen.
