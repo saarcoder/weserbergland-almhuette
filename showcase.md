@@ -80,7 +80,7 @@ sections:
         image: images/24.jpg
         content: |
           Einzelschlafzimmer
-      - title: lorem-ipsum
+      - title: Gemeinsam kochen
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
