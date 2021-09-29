@@ -48,7 +48,7 @@ sections:
         image: images/15.jpg
         content: |
           Blick zur Terrasse
-      - title: lorem-ipsum
+      - title: Zur Ruhe kommen
         title_url: /images/22.jpg
         content: |
           Großes Wohnzimmer
