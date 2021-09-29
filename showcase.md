@@ -60,7 +60,7 @@ sections:
         content: |
           großes Bad mit Eckbadewanne 
         image: images/20.jpg
-      - title: Neue Frische
+      - title: Kein 
         title_url: /images/20.jpg
         content: |
           Bad im Obergeschoss 
