@@ -38,17 +38,8 @@ sections:
       - title: lorem-ipsum
         title_url: /images/27.jpg
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Unterwegs mit Freunden
         actions: []
         image: images/27.jpg
 seo:
