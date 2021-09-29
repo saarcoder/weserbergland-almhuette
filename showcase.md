@@ -21,7 +21,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/30.jpg
         content: A minimal blogging theme for Unibit
-      - title: Ampersand
+      - title: Weite Landschaft
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/31.jpg
         content: Medium inspired blogging theme for Unibit
