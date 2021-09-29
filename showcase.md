@@ -24,7 +24,7 @@ sections:
         content: A minimal blogging theme for Unibit
       - title: Ampersand
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
+        image: images/31.jpg
         content: Medium inspired blogging theme for Unibit
 seo:
   title: Showcase
