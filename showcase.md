@@ -54,7 +54,6 @@ sections:
         title_url: /images/22.jpg
         content: |
           Großes Wohnzimmer
-        actions: []
         image: images/22.jpg
 seo:
   title: Showcase
