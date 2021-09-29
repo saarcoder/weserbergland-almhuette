@@ -11,7 +11,7 @@ seo:
       value: Urlaub ist da, wo man sich zu Hause fühlt ...
       keyName: property
     - name: 'og:description'
-      value: This is the documentation page
+      value: Ein uriges Holzhaus am Waldrand
       keyName: property
     - name: 'twitter:card'
       value: summary
