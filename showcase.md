@@ -48,7 +48,6 @@ sections:
         image_alt: lorem-ipsum
         content: |
           Blick zur Terrasse
-        actions: []
         image: images/15.jpg
 seo:
   title: Showcase
