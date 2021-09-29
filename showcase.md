@@ -63,7 +63,7 @@ sections:
       - title: Neue Frische
         title_url: /images/20.jpg
         content: |
-          großes Bad im Obergeschoss 
+          Bad im Obergeschoss 
         image: images/10.jpg
 seo:
   title: Showcase
