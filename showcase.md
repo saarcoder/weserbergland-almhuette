@@ -64,7 +64,7 @@ sections:
         title_url: /images/20.jpg
         content: |
           großes Bad mit Eckbadewanne 
-        image: images/20.jpg
+        image: images/10.jpg
 seo:
   title: Showcase
   description: This is the showcase page
