@@ -91,7 +91,7 @@ sections:
           Großer Essbereich für 6 Personen
         actions: []
         image: images/11.jpg
-      - title: lorem-ipsum
+      - title: Ein lauschiges Plätzchen
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
