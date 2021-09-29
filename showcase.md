@@ -74,7 +74,6 @@ sections:
         title_url: /images/25.jpg
         content: |
           Sauna mit Dusche
-        actions: []
         image: images/25.jpg
 seo:
   title: Showcase
