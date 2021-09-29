@@ -13,7 +13,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/02.jpg
         content: |
-          Hier können Ihre Hunde herumtollen
+          Hier können Ihre Hunde nach Lust und Laune herumtollen
       - title: "Balkon mit\_ Aussicht"
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/05.jpg
