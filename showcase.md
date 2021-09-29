@@ -17,7 +17,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/05.jpg
         content: A personal theme for Unibit
-      - title: Fjord
+      - title: Erholung pur
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/30.jpg
         content: A minimal blogging theme for Unibit
