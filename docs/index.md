@@ -34,3 +34,4 @@ Ein Kinderbettchen, ein Badezimmer mit einer Eckbadewanne und integrierter Dusch
 
 Der Wohnraum ist ausgestattet mit einem großen Esstisch, Wohnlandschaft, Kaminofen, offener Durchgang zur Küche, die mit Grundnahrungsmitteln (Mehl, Zucker, Salz, Gewürze) ständig bestückt ist. Geschirrspüler, Mikrowelle, Backofen, Gefrierschrank, Fondue, Racelette, Tischgrill, Außengrill und sämtliche elektrischen Küchengeräte sind vorhanden. Von Weingläsern über Küchengeschirr bis zum festlichen Essservice ist die Ausstattung komplett für mehr als 6 Personen.  
 
+Handtücher, Bettwäsche, Bademäntel, Hausschuhe usw. sind im Preis inbegriffen.
