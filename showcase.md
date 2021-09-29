@@ -43,7 +43,7 @@ sections:
         image: images/13.jpg
         content: |
           Heimkehren und Ausspannen
-      - title: lorem-ipsum
+      - title: Wohnen mit Stil
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
