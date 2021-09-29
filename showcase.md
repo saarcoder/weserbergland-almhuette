@@ -30,7 +30,7 @@ sections:
         content: |
           Blick zum Ebersnacken
       - title: lorem-ipsum
-        title_url: /images/32.jpfg
+        title_url: /images/32.jpg
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
