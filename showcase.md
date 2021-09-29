@@ -37,7 +37,6 @@ sections:
         image: images/32.jpg
       - title: Auf Tour gehen
         title_url: /images/27.jpg
-        image_alt: lorem-ipsum
         content: |
           Unterwegs mit Freunden
         actions: []
