@@ -54,7 +54,7 @@ sections:
         title_url: /images/22.jpg
         image: images/22.jpg
         content: |
-          Großes Wohnzimmer
+          Großes Schlafzimmer
       - title: Hier gehts hoch
         title_url: /images/18.jpg
         content: |
