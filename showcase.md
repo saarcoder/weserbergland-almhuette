@@ -32,9 +32,9 @@ sections:
           Blick zum Ebersnacken
       - title: Ein Sommertraum
         title_url: /images/32.jpg
+        image: images/32.jpg
         content: |
           Blick zum Ith
-        image: images/32.jpg
       - title: Auf Tour gehen
         title_url: /images/27.jpg
         content: |
