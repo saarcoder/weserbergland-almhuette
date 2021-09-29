@@ -58,7 +58,7 @@ sections:
       - title: Neue Frische
         title_url: /images/20.jpg
         content: |
-          großes Bad mit Eckwanne 
+          großes Bad mit Eckbadewanne 
 seo:
   title: Showcase
   description: This is the showcase page
