@@ -36,7 +36,7 @@ sections:
         actions: []
         image: images/32.jpg
       - title: lorem-ipsum
-        title_url: lorem-ipsum
+        title_url: /images/27.jpg
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
