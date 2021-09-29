@@ -64,7 +64,7 @@ sections:
         title_url: /images/20.jpg
         content: |
           Bad im Obergeschoss 
-        image: images/10.jpg
+        image: images/10-6a1d6639.jpg
 seo:
   title: Showcase
   description: This is the showcase page
