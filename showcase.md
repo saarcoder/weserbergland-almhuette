@@ -58,7 +58,7 @@ sections:
       - title: lorem-ipsum
         title_url: lorem-ipsum
         content: |
-          
+          Neue Frische
 seo:
   title: Showcase
   description: This is the showcase page
