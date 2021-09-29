@@ -45,9 +45,9 @@ sections:
           Heimkehren und Ausspannen
       - title: Wohnen mit Stil
         title_url: /images/15.jpg
+        image: images/15.jpg
         content: |
           Blick zur Terrasse
-        image: images/15.jpg
 seo:
   title: Showcase
   description: This is the showcase page
