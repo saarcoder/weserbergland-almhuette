@@ -4,6 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Bilder
+    content: |
+      Schauen Sie sich um!
   - section_id: showcase
     type: section_grid
     col_number: three
