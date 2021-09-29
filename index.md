@@ -29,10 +29,14 @@ sections:
             url: /blog
             style: link
       - title: Preise
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |
+          **Übernachtung für bis zu zwei Personen:**
+
+          \<ins>Hauptsaison:\</ins> à 55,-- €
+
+          (Saisonzeiten: 01.04.-31.10. und 20.12.-10.01.)
+
+          Nebensaison: à 50,-- €
         actions:
           - label: Learn More
             url: /style-guide
