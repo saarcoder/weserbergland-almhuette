@@ -37,7 +37,6 @@ sections:
         title_url: /images/27.jpg
         content: |
           Unterwegs mit Freunden
-        actions: []
         image: images/27.jpg
       - title: Ein Ort zum Wohlfühlen
         title_url: /images/13.jpg
