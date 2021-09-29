@@ -98,7 +98,7 @@ sections:
       - title: An den Feiertagen
         title_url: /images/06.jpg
         content: |
-          Weihnachtsdekoration
+          Kleine Weihnachtsdekoration
 seo:
   title: Showcase
   description: This is the showcase page
