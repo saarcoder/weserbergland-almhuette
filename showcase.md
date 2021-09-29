@@ -76,6 +76,7 @@ sections:
         content: |
           Sauna mit Dusche
         actions: []
+        image: images/25.jpg
 seo:
   title: Showcase
   description: This is the showcase page
