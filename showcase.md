@@ -85,7 +85,7 @@ sections:
         image: images/16.jpg
         content: |
           Rustikale Küche mit viel Platz
-      - title: Gemütlich beisammen
+      - title: Gemütlich beisammen sein
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
