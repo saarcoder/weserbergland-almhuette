@@ -96,7 +96,7 @@ sections:
           Für Sterngucker und zünftige Abende
         image: images/07.jpg
       - title: An den Feiertagen
-        title_url: lorem-ipsum
+        title_url: /images/06.jpg
         content: |
           Weihnachtsdekoration
 seo:
