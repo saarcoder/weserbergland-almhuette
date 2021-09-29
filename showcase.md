@@ -64,7 +64,7 @@ sections:
         title_url: /images/20.jpg
         image: images/20.jpg
         content: |
-          großes Bad mit Eckbadewanne 
+          Großes Bad mit Eckbadewanne
       - title: Platz für Alle
         title_url: /images/10.jpg
         image: images/10.jpg
