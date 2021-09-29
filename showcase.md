@@ -4,7 +4,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: Bilder
-    image: images/5.jpg
     content: This is an optional page subtitle
   - section_id: showcase
     type: section_grid
