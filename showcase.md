@@ -85,7 +85,7 @@ sections:
         image: images/16.jpg
         content: |
           Rustikale Küche mit viel Platz
-      - title: Gemütlich beisammensein
+      - title: Gemütlich beisammen sein
         title_url: /images/11.jpg
         content: |
           Großer Essbereich für 6 Personen
