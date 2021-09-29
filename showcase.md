@@ -45,7 +45,6 @@ sections:
         content: |
           Heimkehren und Ausspannen
         actions: []
-        image: images/13.jpg
 seo:
   title: Showcase
   description: This is the showcase page
