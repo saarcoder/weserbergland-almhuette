@@ -67,6 +67,7 @@ sections:
           großes Bad mit Eckbadewanne 
       - title: Platz für Alle
         title_url: /images/10.jpg
+        image: images/10.jpg
         content: |
           Bad im Obergeschoss 
       - title: Heiße Luft
