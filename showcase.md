@@ -94,7 +94,6 @@ sections:
         title_url: /images/07.jpg
         content: |
           Für Sterngucker und zünftige Abende
-        image: images/07.jpg
       - title: An den Feiertagen
         title_url: /images/06.jpg
         image: images/06.jpg
