@@ -93,7 +93,6 @@ sections:
         image: images/11.jpg
       - title: Ein lauschiges Plätzchen
         title_url: lorem-ipsum
-        image_alt: lorem-ipsum
         content: |
           Für Sterngucker und zünftige Abende
         actions: []
