@@ -13,7 +13,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/02.jpg
         content: A portfolio theme for Unibit
-      - title: Fresh
+      - title: "Balkon mit\_ Aussicht"
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/05.jpg
         content: A personal theme for Unibit
