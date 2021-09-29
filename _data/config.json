@@ -16,7 +16,7 @@
             {
                 "label": "Docs",
                 "url": "/docs",
-                "style": "link",
+                "style": "icon",
                 "has_subnav": false
             },
             {
