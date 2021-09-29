@@ -1,5 +1,5 @@
 ---
-title: Urlaub ist da...
+title: About
 seo:
   title: Urlaub ist da...
   description: Ein uriges Holzhaus am Waldrand
