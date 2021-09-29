@@ -55,7 +55,7 @@ sections:
         image: images/22.jpg
         content: |
           Großes Wohnzimmer
-      - title: Neue Frische
+      - title: Frisch und hell
         title_url: /images/20.jpg
         content: |
           großes Bad mit Eckbadewanne 
