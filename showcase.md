@@ -76,7 +76,7 @@ sections:
         content: |
           Sauna mit Dusche
       - title: Gut schlafen
-        title_url: lorem-ipsum
+        title_url: /images/24.jpg
         image_alt: lorem-ipsum
         content: |
           Einzelschlafzimmer
