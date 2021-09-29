@@ -1,5 +1,5 @@
 ---
-title: Urlaub ist da, wo man sich zu Hause fühlt ...
+title: Urlaub ist da...
 seo:
   title: Welcome to Libris
   description: This is the documentation page
