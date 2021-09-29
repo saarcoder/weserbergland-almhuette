@@ -25,7 +25,7 @@ sections:
           Schauen Sie doch einmal bei uns herein! Alle Bilder vom Haus und
           unserer schönen Landschaft gleich hier nach einem Klick!
         actions:
-          - label: View Posts
+          - label: Bilder zeigen
             url: /blog
             style: link
       - title: Preise
