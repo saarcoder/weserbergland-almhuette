@@ -41,7 +41,7 @@ sections:
         actions: []
         image: images/27.jpg
       - title: Ein Ort zum Wohlfühlen
-        title_url: lorem-ipsum
+        title_url: /images/13.jpg
         image_alt: lorem-ipsum
         content: |
           Heimkehren und Ausspannen
