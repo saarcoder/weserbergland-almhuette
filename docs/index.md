@@ -20,7 +20,6 @@ seo:
     - name: 'twitter:description'
       value: This is the documentation page
 layout: docs
-excerpt: ... wo man sich zuhause fühlt!
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
