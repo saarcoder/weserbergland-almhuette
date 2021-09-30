@@ -20,7 +20,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: Site title
+        description: Seitentitel
         required: true
       - type: string
         name: domain
