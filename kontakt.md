@@ -42,6 +42,7 @@ layout: page
         <strong><div>Anschrift</div></strong>
         <div>Ingrid Ehrenberg</div>
         <div>Sonnenberg 6</div>
+        <div>Sonnenberg 6</div>
     </div>
     <div>
         <strong><div>eMail / Internet</div></strong>
