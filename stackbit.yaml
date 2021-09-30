@@ -145,7 +145,7 @@ models:
         label: Abschnitte
         description: >-
           Hauptabschnitt der Dokumentation. Jeder Eintragsname muss gleich der URL
-          slug representing the section.
+          lauten, die den Abschnitt repräsentiert.
         items:
           type: string
   docs:
