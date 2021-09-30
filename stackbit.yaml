@@ -229,7 +229,7 @@ models:
         description: Bild im Hintergrund des Seitenkopfs
       - type: boolean
         name: has_more_link
-        label: Mehr anzeigen
+        label: Link Mehr anzeigen
         description: Display the read more link in the post feed
         default: true
       - type: string
