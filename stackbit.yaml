@@ -80,7 +80,8 @@ models:
         label: Header-Titel (Logo) URL
         description: >-
           Die Internet-Adresse des Header-Titels (Logo). 
-          Nützlich, wenn der Seitentitel als Link zu einer anderen Seite als der Homepage verwendet werden soll
+          Nützlich, wenn der Seitentitel als Link zu einer anderen Seite als der Homepage 
+          verwendet werden soll
           title (logo) link to another URL, rather than the home page.
       - type: boolean
         name: has_nav
