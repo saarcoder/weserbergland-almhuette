@@ -226,7 +226,7 @@ models:
       - type: image
         name: image
         label: Hintergrundbild
-        description: HintergrundbildHintergrundbildHintergrundbild
+        description: Bild im Hintergrund des Seitenkopfs
       - type: boolean
         name: has_more_link
         label: Show read more link
