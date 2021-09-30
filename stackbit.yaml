@@ -80,8 +80,8 @@ models:
         label: Header-Titel (Logo) URL
         description: >-
           Die Internet-Adresse des Header-Titels (Logo).
-          Nützlich, wenn der Seitentitel als Link zu einer anderen Seite
-          als der Homepage verwendet werden soll.
+          Nützlich, wenn der Seitentitel als Link zu einer anderen Seite als der Homepage
+          verwendet werden soll.
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktivieren
@@ -97,7 +97,7 @@ models:
             - action_menu
   footer:
     type: object
-    label: Footer-Konfiguration
+    label: Footer Configuration
     labelField: content
     fields:
       - type: string
@@ -107,20 +107,20 @@ models:
       - type: list
         name: links
         label: Links
-        description: Liste der Links im Footer
+        description: List of links in the footer
         items:
           type: model
           models:
             - action
       - type: boolean
         name: has_social
-        label: Social-Links aktivieren
-        description: Social-Links im Footer anzeigen
+        label: Enable Social Links
+        description: Display social links in the footer
         default: true
       - type: list
         name: social_links
         label: Social Links
-        description: Liste von Social-Links im Footer
+        description: List of social links in the footer
         items:
           type: model
           models:
@@ -128,69 +128,71 @@ models:
   doc_sections:
     type: data
     file: doc_sections.yml
-    label: Abschnitt Dokumentation
+    label: Documentation Sections
     fields:
       - type: string
         name: root_docs_path
-        label: Wurzelpfad (URL) zur Dokumentation
+        label: Root Documentation URL Path
         description: >-
-          Der URL-Pfad, unter dem die Dokumentations-Seiten angezeigt werden.
-          Wird beispielsweise "/" angegeben, dann werden alle Dokumentations-Seiten
-          direkt unter der Hauptadresse angezeigt, während sie beim Pfad "/docs" unter
-          "/docs" angezeigt werden.
+          The URL path under which the documentation pages will be generated.
+          For example, value "/" will place all documentation pages at the site
+          root, while value "/docs" will place all documentation pages under the
+          "/docs" path.
         default: /docs
         required: true
       - type: list
         name: sections
-        label: Abschnitte
+        label: Sections
         description: >-
-          Hauptabschnitt der Dokumentation. Jeder Eintragsname muss gleich der URL
-          lauten, die den Abschnitt repräsentiert.
+          The main sections of the documentation. Every item must be the URL
+          slug representing the section.
         items:
           type: string
   docs:
     type: page
     urlPath: '/docs/{slug}'
-    label: Dokumentations-Seiten
+    label: Documentation Pages
     layout: docs
     folder: docs
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Titel der Seite als Seitentitel und als Navigation
+        label: Title
+        description: >-
+          The title of the page, used both as a page title and as a navigation
+          menu title
         required: true
       - type: number
         name: weight
-        label: Gewicht
+        label: Weight
         description: >-
-          Die Stelle in der Navigationsreihenfolge der Dokumentations-Seite.
-          Für den Haupt-Abschnitt wird sie ignoriert.
+          The navigation order of the documentation page. This value is ignored
+          for parent section pages.
       - type: string
         name: excerpt
-        label: Zusammenfassung
+        label: Excerpt
         description: >-
-          Kurze Zusammenfassung des Dokumentations-Abschnitts. Wird in der
-          Dokumentations-Übersicht angezeigt.
+          Short description of the documentation section. Displayed in
+          documentation overview section.
       - type: model
         name: seo
         models:
           - stackbit_page_meta
   advanced:
     type: page
-    label: Seitenvorlage Advanced
+    label: Advanced Page
     layout: advanced
     hideContent: true
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Seitentitel
+        label: Title
+        description: The title of the page.
         required: true
       - type: list
         name: sections
-        label: Abschnitte
-        description: Seiten-Abschnitte
+        label: Sections
+        description: Page sections
         items:
           type: model
           models:
@@ -214,25 +216,25 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Seitentitel
+        label: Title
+        description: The title of the page
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Text unterhalb des Seitentitels
+        label: Subtitle
+        description: The text shown just below the page title
       - type: image
         name: image
-        label: Hintergrundbild
-        description: Bild im Hintergrund des Seitenkopfs
+        label: Background Image
+        description: The image shown in the background of the page header
       - type: boolean
         name: has_more_link
-        label: Link Mehr anzeigen
-        description: Im Beitrag den Link Mehr anzeigen zeigen
+        label: Show read more link
+        description: Display the read more link in the post feed
         default: true
       - type: string
         name: more_link_text
-        label: Weiterlesen-Link
+        label: Read more link label
       - type: model
         name: seo
         models:
@@ -245,17 +247,17 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Seitentitel
+        label: Title
+        description: The title of the page
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Der Text direkt unterhalb des Beitragstitels
+        label: Subtitle
+        description: The text shown just below the page title
       - type: image
         name: image
-        label: Hintergrundbild
-        description: Bild im Hintergrund des Seitenkopfs
+        label: Background Image
+        description: The image shown in the background of the page header
       - type: model
         name: seo
         models:
@@ -269,33 +271,33 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Beitragstitel
+        label: Title
+        description: The title of the post
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Der Text direkt unterhalb des Beitragstitels
+        label: Subtitle
+        description: The text shown just below the post title
       - type: date
         name: date
-        label: Datum
+        label: Date
         required: true
       - type: image
         name: thumb_image
-        label: Bild im Blog-Feed
-        description: Das Bild, das im Blog-Feed angezeigt wird
+        label: Image (blog feed)
+        description: The image shown in the blog feed
       - type: string
         name: thumb_image_alt
-        label: Bilder-Alt-Text (im Blog-Feed)
-        description: Der Alt-Text des Bildes im Blog-Feed
+        label: Image alt text (blog feed)
+        description: The alt text of the blog feed image
       - type: image
         name: image
-        label: Hintergrundbild (Einzel-Beitrag)
-        description: Bild im Hintergrundbild des Kopfs eines Einzelbeitrags
+        label: Background Image (single post)
+        description: The image shown in the background of the single post header
       - type: string
         name: excerpt
-        label: Zusammenfassung
-        description: Zusammenfassung des Beitrags im Blog-Feed
+        label: Excerpt
+        description: The excerpt of the post displayed in the blog feed
       - type: model
         name: seo
         models:
