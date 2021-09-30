@@ -25,7 +25,7 @@
             {
                 "label": "Bilder",
                 "url": "/blog",
-                "style": "link",
+                "style": "icon",
                 "has_subnav": false
             },
             {
