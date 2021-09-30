@@ -107,7 +107,7 @@ models:
       - type: list
         name: links
         label: Links
-        description: Liste der Links in the footer
+        description: Liste der Links im Footer
         items:
           type: model
           models:
