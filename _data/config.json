@@ -56,7 +56,7 @@
             {
                 "label": "Preise",
                 "url": "/preise",
-                "style": "primary",
+                "style": "icon",
                 "has_subnav": false,
                 "icon_class": "preise"
             }
