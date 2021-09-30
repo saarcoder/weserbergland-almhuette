@@ -62,7 +62,7 @@ models:
       - type: string
         name: title
         label: Header-Titel
-        description: Der Titel im Header erscheint, wenn kein Logobild angegeben ist
+        description: Der Titel im Header, wenn kein Logobild angegeben ist
       - type: image
         name: logo_img
         label: Logo
