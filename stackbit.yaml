@@ -137,7 +137,7 @@ models:
           Der URL-Pfad, unter dem die Dokumentations-Seiten angezeigt werden.
           Wird beispielsweise "/" angegeben, dann werden alle Dokumentations-Seiten
           direkt unter der Hauptadresse angezeigt, während sie beim Pfad "/docs" unter
-          "/docs" path.
+          "/docs" angezeigt werden.
         default: /docs
         required: true
       - type: list
