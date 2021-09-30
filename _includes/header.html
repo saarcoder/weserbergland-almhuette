@@ -4,7 +4,7 @@
       <div class="site-branding">
         {% assign flower_logo_is_not_empty = site.data.config.header.flower_logo_img | is_not_empty %}
         {% if flower_logo_is_not_empty %}
-        <img src="{{ site.data.config.header.flower_logo_img }}" alt="Blumenlogo" />
+        <img src="{{ site.data.config.header.flower_logo_img | relative_url }}" alt="Blumenlogo" />
         {% endif %}
         {% assign logo_img_is_not_empty = site.data.config.header.logo_img | is_not_empty %}
         {% if logo_img_is_not_empty %}
