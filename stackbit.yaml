@@ -256,7 +256,7 @@ models:
         description: The text shown just below the page title
       - type: image
         name: image
-        label: Background Image
+        label: Hintergrundbild
         description: The image shown in the background of the page header
       - type: model
         name: seo
