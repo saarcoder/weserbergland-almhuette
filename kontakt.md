@@ -41,7 +41,7 @@ layout: page
     <div>
         <strong><div>Anschrift</div></strong>
         <div>Telefon: 05533 / 5426</div>
-        <div></div>
+        <div>Mobil: 0171 / 5173559</div>
     </div>
     <div>
         <strong><div>eMail / Internet</div></strong>
