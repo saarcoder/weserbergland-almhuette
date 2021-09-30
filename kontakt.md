@@ -44,7 +44,7 @@ layout: page
         <div>Sonnenberg 6</div>
         <div>37620 Halle</div>
     </div>
-    <div>
+    <div style="display: flex; flex-direction: column; justify-content: space-between;">
         <strong><div>eMail / Internet</div></strong>
         <p><a href="mailto:ehrenbergids@aol.com">ehrenbergids@aol.com</a></p>
         <p><a href="http://www.weserbergland-almhuette.de">weserbergland-almhuette.de</a></p>
