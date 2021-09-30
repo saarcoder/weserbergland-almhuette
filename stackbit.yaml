@@ -34,7 +34,7 @@ models:
         description: Ein quadratisches Bild, das Ihre Webseite repräsentiert
       - type: enum
         name: palette
-        label: Color Palette
+        label: Farb-Palette
         description: The color palette of the site
         options:
           - blue
