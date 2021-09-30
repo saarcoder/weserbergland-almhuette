@@ -72,6 +72,8 @@ models:
         label: Logo Alt Text
         description: The alt text of the logo image
       - type: string
+        name: 
+      - type: string
         name: url
         label: Header Title (Logo) URL
         description: >-
