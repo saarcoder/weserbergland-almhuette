@@ -26,7 +26,7 @@ models:
         name: domain
         label: Domain
         description: >-
-          The domain of your site, including the protocol, e.g.
+          Die Internet-Adresse Ihrer Seite, z.B.
           https://mysite.com/
       - type: image
         name: favicon
