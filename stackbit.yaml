@@ -292,7 +292,7 @@ models:
         description: TDer Alt-Text des Bildes im Blog-Feed
       - type: image
         name: image
-        label: Background Image (single post)
+        label: Hintergrundbild (single post)
         description: The image shown in the background of the single post header
       - type: string
         name: excerpt
