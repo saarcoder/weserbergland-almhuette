@@ -160,7 +160,6 @@ models:
         label: Titel
         description: >-
           Der Titel der Seite, sowohl als Seitentitel als auch als Navigation
-          menu title
         required: true
       - type: number
         name: weight
