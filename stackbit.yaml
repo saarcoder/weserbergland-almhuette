@@ -120,7 +120,7 @@ models:
       - type: list
         name: social_links
         label: Social Links
-        description: Liste von Social-Links in the footer
+        description: Liste von Social-Links im Footer
         items:
           type: model
           models:
