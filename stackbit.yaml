@@ -24,7 +24,7 @@ models:
         required: true
       - type: string
         name: domain
-        label: Domain
+        label: Internet-Adresse
         description: >-
           Die Internet-Adresse Ihrer Seite, z.B.
           https://meine-seite.de/
