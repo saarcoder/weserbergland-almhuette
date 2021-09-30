@@ -56,7 +56,7 @@ models:
     file: config.json
   header:
     type: object
-    label: Header-Konfiguration
+    label: Header Configuration
     labelField: title
     fields:
       - type: string
