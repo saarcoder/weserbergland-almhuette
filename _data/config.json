@@ -52,7 +52,7 @@
                 "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false,
-                "icon_class": "beschreibung"
+                "icon_class": "impressum"
             },
             {
                 "label": "Preise",
