@@ -71,7 +71,7 @@ seo:
         Bergen? Dann sind Sie bei uns genau richtig!
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/30.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
