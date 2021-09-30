@@ -33,7 +33,7 @@ seo:
 layout: page
 ---
 <div style="display: flex; justify-content: space-between;">
-<strong><div>Telefon / Fax</div>
+<div>Telefon / Fax</div>
 <div>Anschrift</div>
 <div>eMail / Internet</div>
 </div></strong>
