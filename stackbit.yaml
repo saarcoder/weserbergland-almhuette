@@ -85,7 +85,7 @@ models:
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktivieren
-        description: Das Navigations-Menü im Header anzeigen
+        description: Navigations-Menü im Header anzeigen
         default: true
       - type: list
         name: nav_links
