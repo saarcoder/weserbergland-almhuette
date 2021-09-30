@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: space-between;">
 <div>Telefon / Fax</div>
 <div>Anschrift</div>
 <div>eMail / Internet</div>
