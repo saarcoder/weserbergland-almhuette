@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: Impressum
     - name: 'twitter:description'
       value: Inhaltlich Verantwortliche gemäß §6 MDStV
     - name: 'twitter:image'
