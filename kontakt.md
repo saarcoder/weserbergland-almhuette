@@ -35,49 +35,9 @@ seo:
 layout: page
 ---
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
-
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Video Embeds
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Code Blocks
-
-Blocks of code are either fenced by `lines with three back-ticks`, or are indented with four spaces.
-
-```
-<!-- Some example CSS code -->
+**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, co->
 body {
-  color:red;
-}
-```
 
-```javascript
-window.$docsify = {
-  coverpage: true,
-
-  // Custom file name
-  coverpage: 'cover.md',
-
-  // mutiple covers
-  coverpage: ['/', '/zh-cn/'],
-
-  // mutiple covers and custom file name
-  coverpage: {
-    '/': 'cover.md',
-    '/zh-cn/': 'cover.md'
-  }
-};
-```
-
-## Tables
 
 <div class="responsive-table">
   <table>
