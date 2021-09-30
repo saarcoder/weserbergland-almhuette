@@ -97,7 +97,7 @@ models:
             - action_menu
   footer:
     type: object
-    label: Footeronfiguration
+    label: Footer-Konfiguration
     labelField: content
     fields:
       - type: string
