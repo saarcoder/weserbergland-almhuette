@@ -289,7 +289,7 @@ models:
       - type: string
         name: thumb_image_alt
         label: Bilder-Alt-Text (im Blog-Feed)
-        description: TDer Alt-Text (im Blog-Feed)
+        description: TDer Alt-Text des Bildes im Blog-Feed
       - type: image
         name: image
         label: Background Image (single post)
