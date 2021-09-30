@@ -38,7 +38,7 @@ layout: page
         <div>Telefon: 05533 / 5426</div>
         <div>Mobil: 0171 / 5173559</div>
     </div>
-    <div>
+    <div style="display: flex; flex-direction: column; justify-content: space-between;">
         <strong><div>Anschrift</div></strong>
         <div>Ingrid Ehrenberg</div>
         <div>Sonnenberg 6</div>
