@@ -144,7 +144,7 @@ models:
         name: sections
         label: Abschnitte
         description: >-
-          The main sections of the documentation. Every item must be the URL
+          Hauptabschnitt der Documentation. Every item must be the URL
           slug representing the section.
         items:
           type: string
