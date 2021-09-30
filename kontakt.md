@@ -33,7 +33,7 @@ seo:
 layout: page
 ---
 <div style="display: grid">
-<div>Telefon:</div>
+<div>Telefon:/Fax</div>
 <div>Anschrift</div>
 <div>eMail</div>
 </div>
