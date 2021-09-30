@@ -560,8 +560,8 @@ models:
         name: extra
         label: Extra
         description: >-
-          Additional definition for specific meta tags such as open-graph,
-          twitter, etc.
+          Zusätzliche Definition von meta tags wie Open-Graph,
+          Twitter, usw.
         items:
           type: object
           labelField: name
