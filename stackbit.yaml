@@ -70,7 +70,7 @@ models:
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
-        description: The alt text of the logo image
+        description: Der alt text of the logo image
       - type: string
         name: flower_logo_img
         label: Blumen-Bild
