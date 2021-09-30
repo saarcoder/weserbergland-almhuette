@@ -172,7 +172,7 @@ models:
         name: excerpt
         label: Zusammenfassung
         description: >-
-          Short description of the documentation section. Displayed in
+          Kurze Zusammenfassung des Dokumentations-Abschnitts. Displayed in
           documentation overview section.
       - type: model
         name: seo
