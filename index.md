@@ -54,7 +54,7 @@ sections:
             url: /style-guide
             style: link
 seo:
-  title: Stackbit Libris Theme
+  title: Almhütte Weserbergland
   description: The preview of the Libris theme
   extra:
     - name: 'og:type'
