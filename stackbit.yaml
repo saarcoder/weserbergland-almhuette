@@ -230,11 +230,11 @@ models:
       - type: boolean
         name: has_more_link
         label: Link Mehr anzeigen
-        description: Im Beitrag den Link Mehr anzeigen
+        description: Im Beitrag den Link Mehr anzeigen zeigen
         default: true
       - type: string
         name: more_link_text
-        label: Read more link label
+        label: Weiterlesen-Link
       - type: model
         name: seo
         models:
