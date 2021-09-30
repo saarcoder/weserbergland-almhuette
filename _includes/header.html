@@ -12,11 +12,6 @@
         {% else %}
         <p class="site-title"><a href="{{ site.data.config.header.url | default: '/' | relative_url }}">{{ site.data.config.header.title }}</a></p>
         {% endif %}
-
-      {% if has_nav_is_not_empty %}
-      <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Close Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
-{% endif %}
-
       </div><!-- .site-branding -->
       {% assign has_nav_is_not_empty = site.data.config.header.has_nav | is_not_empty %}
       {% if has_nav_is_not_empty %}
@@ -39,7 +34,9 @@
           {% endfor %}
           </ul>
         </div><!-- .site-nav-inside -->
-      </nav><!-- .site-navigation -->      {% endif %}
+      </nav><!-- .site-navigation -->
+      <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Close Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
+      {% endif %}
     </div><!-- .site-header-inside -->
   </div><!-- .inner -->
 </header><!-- .site-header -->
