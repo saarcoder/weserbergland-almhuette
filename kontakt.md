@@ -40,7 +40,7 @@ layout: page
     <div></div>
     <div>
         <strong><div>Anschrift</div></strong>
-        <div></div>
+        <div>Telefon: 05533 / 5426</div>
         <div></div>
     </div>
     <div>
