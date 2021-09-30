@@ -166,7 +166,7 @@ models:
         name: weight
         label: Gewicht
         description: >-
-          Die Stelle in der Navigationsreihenfolge der Dokumentations-Seite. This value is ignored
+          Die Stelle in der Navigationsreihenfolge der Dokumentations-Seite. Für die 
           for parent section pages.
       - type: string
         name: excerpt
