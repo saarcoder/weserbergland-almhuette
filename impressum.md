@@ -14,7 +14,7 @@ seo:
       value: Inhaltlich Verantwortliche gemäß §6 MDStV
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: images/impress.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
