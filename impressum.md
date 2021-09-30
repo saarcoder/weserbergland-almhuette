@@ -2,7 +2,7 @@
 title: Impressum
 seo:
   title: Impressum
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Inhaltlich verantwortlich gemäß §6 MDStV
   extra:
     - name: 'og:type'
       value: website
