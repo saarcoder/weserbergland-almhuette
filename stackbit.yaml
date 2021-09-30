@@ -27,7 +27,7 @@ models:
         label: Domain
         description: >-
           Die Internet-Adresse Ihrer Seite, z.B.
-          https://mysite.com/
+          https://meine-seite.de/
       - type: image
         name: favicon
         label: Favicon
