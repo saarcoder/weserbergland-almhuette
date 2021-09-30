@@ -277,7 +277,7 @@ models:
       - type: string
         name: subtitle
         label: Untertitel
-        description: Der Text direkt unterhalb des Beitragstitels erscheint
+        description: Der Text direkt unterhalb des Beitragstitels
       - type: date
         name: date
         label: Datum
