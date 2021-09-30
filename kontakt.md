@@ -40,7 +40,7 @@ layout: page
     </div>
     <div>
         <strong><div>Anschrift</div></strong>
-        <div>Telefon: 05533 / 5426</div>
+        <div>Ingrid Ehrenberg</div>
         <div>Mobil: 0171 / 5173559</div>
     </div>
     <div>
