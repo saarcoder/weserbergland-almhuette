@@ -533,18 +533,18 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The page title that goes into the <title> tag
+        label: Titel
+        description: Der Seitentitel im <title>-Tag
         default: ''
       - type: string
         name: description
-        label: Description
-        description: The page description that goes into the <meta name="description"> tag
+        label: Beschreibung
+        description: Die Seitenbeschreibung für den <meta name="description">-Tag
         default: ''
       - type: list
         name: robots
         label: Robots
-        description: The items that go into the <meta name="robots"> tag
+        description: Die Elemente des <meta name="robots">-Tags
         items:
           type: enum
           options:
@@ -560,8 +560,8 @@ models:
         name: extra
         label: Extra
         description: >-
-          Additional definition for specific meta tags such as open-graph,
-          twitter, etc.
+          Zusätzliche Definition von meta tags wie Open-Graph,
+          Twitter, usw.
         items:
           type: object
           labelField: name
