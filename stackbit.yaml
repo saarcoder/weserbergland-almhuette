@@ -277,7 +277,7 @@ models:
       - type: string
         name: subtitle
         label: Untertitel
-        description: Der Text, der The text shown just below the post title
+        description: Der Text, der direkt unterhalb The text shown just below the post title
       - type: date
         name: date
         label: Datum
