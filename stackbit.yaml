@@ -19,7 +19,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Titel
         description: Site title
         required: true
       - type: string
