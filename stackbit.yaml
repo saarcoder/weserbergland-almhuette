@@ -158,8 +158,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: >-
-          Der Titel der Seite als Seitentitel als auch als Navigation
+        description: Der Titel der Seite als Seitentitel und als Navigation
         required: true
       - type: number
         name: weight
