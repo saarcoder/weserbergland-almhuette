@@ -173,7 +173,7 @@ models:
         label: Zusammenfassung
         description: >-
           Kurze Zusammenfassung des Dokumentations-Abschnitts. Wird in der
-          documentation overview section.
+          Doumentation overview section.
       - type: model
         name: seo
         models:
