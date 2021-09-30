@@ -66,7 +66,9 @@ seo:
       value: Urlaubsdomizil
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: >-
+        Sie suchen ein idyllisches Urlaubsdomizil weitab vom Verkehrslärm in den
+        Bergen? Dann sind Sie bei uns genau richtig!
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
