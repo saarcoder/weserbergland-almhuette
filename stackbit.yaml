@@ -69,7 +69,7 @@ models:
         description: Das Logobild, das im Header angezeigt wird
       - type: string
         name: logo_img_alt
-        label: Logo Alt Text
+        label: Logo Alt-Text
         description: Der alt text of the logo image
       - type: string
         name: flower_logo_img
