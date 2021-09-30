@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: Inhaltlich Verantwortliche gemäß §6 MDStV
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: images/impress.jpg
       relativeUrl: true
 layout: page
 ---
