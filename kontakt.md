@@ -34,18 +34,18 @@ layout: page
 ---
 <div style="display: flex; justify-content: space-between;">
     <div>
-        <strong style="text-align: center;"><div>Telefon / Fax</div></strong>
+        <strong><div>Telefon / Fax</div></strong>
         <div>Telefon: 05533 / 5426</div>
         <div>Mobil: 0171 / 5173559</div>
     </div>
     <div>
-        <strong style="text-align: center;"><div>Anschrift</div></strong>
+        <strong><div>Anschrift</div></strong>
         <div>Ingrid Ehrenberg</div>
         <div>Sonnenberg 6</div>
         <div>37620 Halle</div>
     </div>
     <div>
-        <strong style="text-align: center;"><div>eMail / Internet</div></strong>
+        <strong><div>eMail / Internet</div></strong>
         <p><a href="mailto:ehrenbergids@aol.com">ehrenbergids@aol.com</a></p>
         <p><a href="http://www.weserbergland-almhuette.de">weserbergland-almhuette.de</a></p>
     </div>
