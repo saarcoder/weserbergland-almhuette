@@ -12,8 +12,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Inhaltlich Verantwortliche gemäß §6 MDStV
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
