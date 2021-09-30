@@ -16,6 +16,11 @@
   flex: 0 1 auto;
   display: flex;
   align-items: center;
+
+  img {
+          margin-top: -1rem;
+    margin-right: .75rem;
+  }
 }
 
 .site-title {
