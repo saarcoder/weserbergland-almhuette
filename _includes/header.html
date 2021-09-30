@@ -3,7 +3,7 @@
     <div class="site-header-inside">
       <div class="site-branding">
         {% assign flower_logo = site.data.config.header.flower_logo_img %}
-          <img src="flower_logo_img" />
+          <img src="{{ site.data.config.header.url | default: '/' | relative_url }}"><img src="{{ site.data.config.header.logo_img | relative_urlflower_logo_img" />
         {% assign logo_img_is_not_empty = site.data.config.header.logo_img | is_not_empty %}
         {% if logo_img_is_not_empty %}
         <p class="site-logo"><a href="{{ site.data.config.header.url | default: '/' | relative_url }}"><img src="{{ site.data.config.header.logo_img | relative_url }}" alt="{{ site.data.config.header.logo_img_alt }}" /></a></p>
