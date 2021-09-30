@@ -31,7 +31,7 @@ models:
       - type: image
         name: favicon
         label: Favicon
-        description: Ein quadratisches Bild, das Ihre Webseite repräsetiert
+        description: Ein quadratisches Bild, das Ihre Webseite repräsentiert
       - type: enum
         name: palette
         label: Color Palette
