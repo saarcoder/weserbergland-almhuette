@@ -15,7 +15,7 @@ logicFields:
 models:
   config:
     type: data
-    label: Site Configuration
+    label: Seiten-Konfiguration
     fields:
       - type: string
         name: title
