@@ -280,7 +280,7 @@ models:
         description: The text shown just below the post title
       - type: date
         name: date
-        label: Date
+        label: Datum
         required: true
       - type: image
         name: thumb_image
