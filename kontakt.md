@@ -37,6 +37,7 @@ layout: page
         <strong><div>Telefon / Fax</div></strong>
     </div>
     <div></div>
+    <div></div>
     <div>
         <strong><div>Anschrift</div></strong>
     </div>
