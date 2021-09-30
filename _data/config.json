@@ -50,7 +50,7 @@
             {
                 "label": "Style Guide",
                 "url": "/style-guide",
-                "style": "link",
+                "style": "icon",
                 "has_subnav": false,
                 "icon_class": "impressum"
             },
