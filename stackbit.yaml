@@ -170,7 +170,7 @@ models:
           wird sie ignoriert.
       - type: string
         name: excerpt
-        label: Excerpt
+        label: Zusammenfassung
         description: >-
           Short description of the documentation section. Displayed in
           documentation overview section.
