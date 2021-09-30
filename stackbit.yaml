@@ -79,7 +79,7 @@ models:
         name: url
         label: Header-Titel (Logo) URL
         description: >-
-          Die Internet-Adresse des Header title (logo). Useful if you want the header
+          Die Internet-Adresse des Header-Titels (Logo). Useful if you want the header
           title (logo) link to another URL, rather than the home page.
       - type: boolean
         name: has_nav
