@@ -2,7 +2,7 @@
 title: Impressum
 seo:
   title: Impressum
-  description: Inhaltlich verantwortlich gemäß §6 MDStV
+  description: Inhaltlich verantwortliche gemäß §6 MDStV
   extra:
     - name: 'og:type'
       value: website
