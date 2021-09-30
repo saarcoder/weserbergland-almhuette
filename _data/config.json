@@ -12,7 +12,8 @@
                 "label": "Home",
                 "url": "/",
                 "style": "icon",
-                "has_subnav": false
+                "has_subnav": false,
+                "icon_class": "beschreibung"
             },
             {
                 "label": "Docs",
