@@ -19,7 +19,7 @@
                 "url": "/docs",
                 "style": "icon",
                 "has_subnav": false,
-                "icon_class": "facebook"
+                "icon_class": "beschreibung"
             },
             {
                 "label": "Blog",
