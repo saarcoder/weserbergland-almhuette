@@ -56,7 +56,7 @@
             },
             {
                 "label": "Kontakt",
-                "url": "/preise",
+                "url": "/kontakt",
                 "style": "icon",
                 "has_subnav": false,
                 "icon_class": "preise"
