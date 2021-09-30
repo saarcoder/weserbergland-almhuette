@@ -55,7 +55,9 @@ sections:
             style: link
 seo:
   title: Almhütte Weserbergland
-  description: The preview of the Libris theme
+  description: >-
+    Sie suchen ein idyllisches Urlaubsdomizil weitab vom Verkehrslärm in den
+    Bergen? Dann sind Sie bei uns genau richtig!
   extra:
     - name: 'og:type'
       value: website
