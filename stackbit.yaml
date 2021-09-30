@@ -35,7 +35,7 @@ models:
       - type: enum
         name: palette
         label: Farb-Palette
-        description: The color palette of the site
+        description: Die Farb-Palette der Seite
         options:
           - blue
           - green
