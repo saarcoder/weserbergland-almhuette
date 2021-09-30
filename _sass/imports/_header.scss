@@ -13,7 +13,7 @@
   -ms-flex: 0 1 auto;
   flex: 0 1 auto;
   display: flex;
-  justify-content: center;
+ justify-content: center;
   align-items: center;
 
   img {
@@ -81,7 +81,7 @@
 @media only screen and (min-width: 801px) {
   #menu-open,
   #menu-close {
-    display: none;auto
+    display: none;
   }
 
   .site-navigation {
@@ -359,7 +359,6 @@
 
   #menu-open {
     margin-left: auto;
-    
   }
 
   #menu-close {
