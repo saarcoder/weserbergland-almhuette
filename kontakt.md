@@ -47,7 +47,7 @@ layout: page
     <div>
         <strong><div>eMail / Internet</div></strong>
         <a href="mailto:ehrenbergids@aol.com">ehrenbergids@aol.com</a>
-        <div></div>
+        <a href="http://www.weserbergland-almhuette.de">weserbergland-almhuette.de</a>
     </div>
 </div>
 <table border="0" width="91%" height="157"><tbody><tr><td width="34%" align="center" valign="top"><p><strong>Telefon / Fax</strong></p><p class="Stil1">Telefon: 05533 / 5426</p><p class="Stil1">Mobil: 0171 / 5173559</p></td><td width="32%" align="center" valign="top"><p><strong>Anschrift</strong></p><p>Ingrid Ehrenberg<br><br>Sonnenberg 6</p><p>37620 Halle</p></td><td width="34%" align="center" valign="top"><p><strong>eMail / Internet</strong></p><p><a href="mailto:ehrenbergids@aol.com">ehrenbergids@aol.com</a></p><p><a href="http://www.weserbergland-almhuette.de">weserbergland-almhuette.de</a></p><p>&nbsp;</p></td></tr></tbody></table>
