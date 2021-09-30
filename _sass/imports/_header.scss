@@ -7,13 +7,14 @@
 .site-header-inside {
   -ms-flex-align: center;
   align-items: center;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .site-branding {
   -ms-flex: 0 1 auto;
   flex: 0 1 auto;
   display: flex;
-  justify-content: center;
   align-items: center;
 
   img {
@@ -81,7 +82,7 @@
 @media only screen and (min-width: 801px) {
   #menu-open,
   #menu-close {
-    display: none;auto
+    display: none;
   }
 
   .site-navigation {
@@ -358,8 +359,7 @@
   }
 
   #menu-open {
-    margin-left: 1rem;
-    margin-top: -.25rem;
+    margin-left: auto;
   }
 
   #menu-close {
