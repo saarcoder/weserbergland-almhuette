@@ -72,7 +72,7 @@ models:
         label: Logo Alt Text
         description: The alt text of the logo image
       - type: string
-        name: 
+        name: flower_logo_img
       - type: string
         name: url
         label: Header Title (Logo) URL
