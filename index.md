@@ -79,7 +79,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Libris Theme
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: >-
+        Sie suchen ein idyllisches Urlaubsdomizil weitab vom Verkehrslärm in den
+        Bergen? Dann sind Sie bei uns genau richtig!
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
