@@ -39,7 +39,7 @@ layout: page
         <div>Mobil: 0171 / 5173559</div>
     </div>
     <div>
-        <strong><div>Anschrift</div></strong>
+        <strong style="text-align: center;"><div>Anschrift</div></strong>
         <div>Ingrid Ehrenberg</div>
         <div>Sonnenberg 6</div>
         <div>37620 Halle</div>
