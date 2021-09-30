@@ -66,7 +66,7 @@ models:
       - type: image
         name: logo_img
         label: Logo
-        description: The logo image displayed in the header
+        description: Das Logobild, das 
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
