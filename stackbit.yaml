@@ -144,7 +144,7 @@ models:
         name: sections
         label: Abschnitte
         description: >-
-          Hauptabschnitt der Dokumentation. Jeder Beitrag very item must be the URL
+          Hauptabschnitt der Dokumentation. Jeder Eintragsname very item must be the URL
           slug representing the section.
         items:
           type: string
