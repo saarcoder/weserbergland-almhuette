@@ -167,7 +167,7 @@ models:
         label: Gewicht
         description: >-
           Die Stelle in der Navigationsreihenfolge der Dokumentations-Seite. Für den Über-Abschnitt
-          for parent section pages.
+          wird sie ignoriert.
       - type: string
         name: excerpt
         label: Excerpt
