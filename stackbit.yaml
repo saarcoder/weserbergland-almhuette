@@ -84,7 +84,7 @@ models:
           verwendet werden soll.
       - type: boolean
         name: has_nav
-        label: Navigations-Menu
+        label: Navigations-Menü aktivieren
         description: Display the navigation menu bar in the header
         default: true
       - type: list
