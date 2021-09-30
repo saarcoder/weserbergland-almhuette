@@ -191,7 +191,7 @@ models:
         required: true
       - type: list
         name: sections
-        label: Sections
+        label: Abschnitte
         description: Page sections
         items:
           type: model
