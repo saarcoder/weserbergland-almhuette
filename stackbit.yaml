@@ -297,7 +297,7 @@ models:
       - type: string
         name: excerpt
         label: Zusammenfassung
-        description: Zusammenfassung des Beitrags in the blog feed
+        description: Zusammenfassung des Beitrags im Blog-Feed
       - type: model
         name: seo
         models:
