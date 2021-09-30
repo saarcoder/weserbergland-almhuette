@@ -45,7 +45,7 @@ models:
         required: true
       - type: model
         name: header
-        label: Header Configuration
+        label: Header-Konfiguration
         models:
           - header
       - type: model
