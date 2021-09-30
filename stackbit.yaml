@@ -539,7 +539,7 @@ models:
       - type: string
         name: description
         label: Beschreibung
-        description: Die Seitenbeschreibung für den <meta name="description"> tag
+        description: Die Seitenbeschreibung für den <meta name="description">-Tag
         default: ''
       - type: list
         name: robots
