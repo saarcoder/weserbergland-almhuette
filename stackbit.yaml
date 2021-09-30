@@ -296,7 +296,7 @@ models:
         description: Bild im Hintergrundbild des Kopfs eines Einzelbeitrags
       - type: string
         name: excerpt
-        label: Excerpt
+        label: Zusammenfassung
         description: The excerpt of the post displayed in the blog feed
       - type: model
         name: seo
