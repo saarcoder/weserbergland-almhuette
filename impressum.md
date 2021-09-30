@@ -11,8 +11,7 @@ seo:
       value: Theme Style Guide
       keyName: property
     - name: 'og:description'
-      value: >-
-        Inhaltlich Verantwortliche gemäß §6 MDStV
+      value: Inhaltlich Verantwortliche gemäß §6 MDStV
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
