@@ -74,7 +74,7 @@ models:
       - type: string
         name: flower_logo_img
         label: Blumen-Bild
-        description: Pfad zum kleinen Blumen-Bild links neben dem Titel
+        description: URL-Pfad zum kleinen Blumen-Bild links neben dem Titel
       - type: string
         name: url
         label: Header-Titel (Logo) URL
