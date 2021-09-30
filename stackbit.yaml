@@ -230,7 +230,7 @@ models:
       - type: boolean
         name: has_more_link
         label: Link Mehr anzeigen
-        description: Display the read more link in the post feed
+        description: Im Beitrag den Link Mehr anzeigen
         default: true
       - type: string
         name: more_link_text
