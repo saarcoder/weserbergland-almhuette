@@ -534,7 +534,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: Der Seitentitel im <title> tag
+        description: Der Seitentitel im <title>-Tag
         default: ''
       - type: string
         name: description
