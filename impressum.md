@@ -1,7 +1,5 @@
 ---
 title: Impressum
-subtitle: The style guide provides you with a blueprint of default post and page styles.
-image: images/5.jpg
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
