@@ -83,7 +83,7 @@ seo:
         Sie suchen ein idyllisches Urlaubsdomizil weitab vom Verkehrslärm in den
         Bergen? Dann sind Sie bei uns genau richtig!
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/30.jpg
       relativeUrl: true
 layout: advanced
 ---
