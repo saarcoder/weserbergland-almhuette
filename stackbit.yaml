@@ -192,7 +192,7 @@ models:
       - type: list
         name: sections
         label: Abschnitte
-        description: Page sections
+        description: Seiten-Abschnitte
         items:
           type: model
           models:
