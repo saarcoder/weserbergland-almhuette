@@ -293,7 +293,7 @@ models:
       - type: image
         name: image
         label: Hintergrundbild (Einzel-Beitrag)
-        description: Bild im  of the single post header
+        description: Bild im Hintergrundbild des Kopfs eines Einzelbeitrags
       - type: string
         name: excerpt
         label: Excerpt
