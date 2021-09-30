@@ -102,7 +102,7 @@ models:
     fields:
       - type: string
         name: content
-        label: Footer Content
+        label: Footer-Inhalt
         description: The copyright text displayed in the footer
       - type: list
         name: links
