@@ -225,7 +225,7 @@ models:
         description: Text unterhalb des Seitentitels
       - type: image
         name: image
-        label: Background Image
+        label: Hintergrundbild
         description: The image shown in the background of the page header
       - type: boolean
         name: has_more_link
