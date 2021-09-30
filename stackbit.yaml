@@ -166,7 +166,7 @@ models:
         name: weight
         label: Gewicht
         description: >-
-          The navigation order of the documentation page. This value is ignored
+          Die The navigation order of the documentation page. This value is ignored
           for parent section pages.
       - type: string
         name: excerpt
