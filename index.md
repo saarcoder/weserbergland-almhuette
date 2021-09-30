@@ -63,7 +63,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Urlaubsdomizil
+      value: Herzlich Willkommen auf der Almhütte Weserbergland
       keyName: property
     - name: 'og:description'
       value: >-
