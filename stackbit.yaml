@@ -79,7 +79,7 @@ models:
         name: url
         label: Header-Titel (Logo) URL
         description: >-
-          Die Internet-Adresse des Header-Titels (Logo). 
+          Die Internet-Adresse des Header-Titels (Logo).
           Nützlich, wenn der Seitentitel als Link zu einer anderen Seite als der Homepage
           verwendet werden soll.
       - type: boolean
