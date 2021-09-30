@@ -33,7 +33,9 @@ seo:
 layout: page
 ---
 <div style="display: flex; justify-content: space-between; text-align: center;">
-    <div>
+    <div style="    display: flex;
+    flex-direction: column;
+    justify-content: space-between;">
         <strong><div>Telefon / Fax</div></strong>
         <div>Telefon: 05533 / 5426</div>
         <div>Mobil: 0171 / 5173559</div>
