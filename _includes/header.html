@@ -3,7 +3,7 @@
     <div class="site-header-inside">
       <div class="site-branding">
         {% assign flower_logo = site.data.config.header.flower_logo_img %}
-        {% if flower_logo_img_is_not_empty %}
+        {% if flower_logo %}
         <img src="{{ site.data.config.header.flower_logo_img | relative_url }}" />
         {% assign logo_img_is_not_empty = site.data.config.header.logo_img | is_not_empty %}
         {% if logo_img_is_not_empty %}
