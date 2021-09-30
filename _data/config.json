@@ -5,6 +5,7 @@
         "title": "Libris",
         "logo_img": "images/logo.gif",
         "logo_img_alt": "Logobild Blume",
+        
         "has_nav": true,
         "nav_links": [
             {
