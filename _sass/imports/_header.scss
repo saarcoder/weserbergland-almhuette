@@ -81,7 +81,7 @@
 @media only screen and (min-width: 801px) {
   #menu-open,
   #menu-close {
-    display: none;
+    display: none;auto
   }
 
   .site-navigation {
@@ -359,6 +359,7 @@
 
   #menu-open {
     margin-left: auto;
+    
   }
 
   #menu-close {
