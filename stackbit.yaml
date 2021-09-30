@@ -134,7 +134,7 @@ models:
         name: root_docs_path
         label: Wurzelpfad (URL) zur Dokumentation
         description: >-
-          The URL path under which the documentation pages will be generated.
+          Der URL path under which the documentation pages will be generated.
           For example, value "/" will place all documentation pages at the site
           root, while value "/docs" will place all documentation pages under the
           "/docs" path.
