@@ -533,7 +533,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Titel
         description: The page title that goes into the <title> tag
         default: ''
       - type: string
