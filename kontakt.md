@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<div style="display: grid">
+<div style="display: grid; ">
 <div>Telefon / Fax</div>
 <div>Anschrift</div>
 <div>eMail / Internet</div>
