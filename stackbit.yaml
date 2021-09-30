@@ -50,7 +50,7 @@ models:
           - header
       - type: model
         name: footer
-        label: Footer Configuration
+        label: Footer-Konfiguration
         models:
           - footer
     file: config.json
