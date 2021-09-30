@@ -77,7 +77,7 @@ models:
         description: kleines Blumen-Bild links neben dem Titel
       - type: string
         name: url
-        label: Header Title (Logo) URL
+        label: Header-Titel (Logo) URL
         description: >-
           The URL of the header title (logo). Useful if you want the header
           title (logo) link to another URL, rather than the home page.
