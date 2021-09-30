@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<div style="display: flex; justify-content: space-between; text-align: center;     height: 150px;">
+<div style="display: flex; justify-content: space-between; text-align: center; height: 150px;">
     <div style="display: flex; flex-direction: column; justify-content: space-between;">
         <h6>Telefon / Fax</h6>
         <div>Telefon: 05533 / 5426</div>
