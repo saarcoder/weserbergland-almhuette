@@ -39,7 +39,7 @@ layout: page
         <div>Mobil: 0171 / 5173559</div>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: space-between;">
-        <h5>Anschrift</h6>
+        <h6>Anschrift</h6>
         <div>Ingrid Ehrenberg</div>
         <div>Sonnenberg 6</div>
         <div>37620 Halle</div>
