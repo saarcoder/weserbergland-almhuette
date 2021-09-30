@@ -164,7 +164,7 @@ models:
         required: true
       - type: number
         name: weight
-        label: Weight
+        label: Gewicht
         description: >-
           The navigation order of the documentation page. This value is ignored
           for parent section pages.
