@@ -41,7 +41,7 @@ layout: page
     <div>
         <strong><div>Anschrift</div></strong>
         <div>Ingrid Ehrenberg</div>
-        <div>Mobil: 0171 / 5173559</div>
+        <div>Sonnenberg 6</div>
     </div>
     <div>
         <strong><div>eMail / Internet</div></strong>
