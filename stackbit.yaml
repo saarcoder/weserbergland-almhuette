@@ -560,7 +560,7 @@ models:
         name: extra
         label: Extra
         description: >-
-          Zusätzliche DefinitionAdditional definition for specific meta tags such as open-graph,
+          Zusätzliche Definition von meta tags such as open-graph,
           twitter, etc.
         items:
           type: object
