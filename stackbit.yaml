@@ -81,7 +81,7 @@ models:
         description: >-
           Die Internet-Adresse des Header-Titels (Logo).
           Nützlich, wenn der Seitentitel als Link zu einer anderen Seite
-          verwendet werden soll.
+          als der Homepage verwendet werden soll.
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktivieren
