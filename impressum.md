@@ -72,29 +72,5 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 ## Ordered Lists
 
 1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
 
-## Video Embeds
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Code Blocks
-
-Blocks of code are either fenced by `lines with three back-ticks`, or are indented with four spaces.
-
-```
-<!-- Some example CSS code -->
-body {
-  color:red;
-}
-```
-
-```javascript
-window.$docsify = {
-  coverpage: true,
-
-  // Custom file name
 
