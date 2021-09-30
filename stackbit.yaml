@@ -103,7 +103,7 @@ models:
       - type: string
         name: content
         label: Footer-Inhalt
-        description: Der Copyright text displayed in the footer
+        description: Der Copyrighttext displayed in the footer
       - type: list
         name: links
         label: Links
