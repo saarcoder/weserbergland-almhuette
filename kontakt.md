@@ -40,6 +40,8 @@ layout: page
     <div></div>
     <div>
         <strong><div>Anschrift</div></strong>
+        <div></div>
+        <div></div>
     </div>
     <div>
         <strong><div>eMail / Internet</div></strong>
