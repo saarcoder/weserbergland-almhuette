@@ -34,7 +34,8 @@ layout: page
 ---
 <div style="display: flex; justify-content: space-between;">
 <div>
-    <strong><div>Telefon / Fax</div></strong></div>
+    <strong><div>Telefon / Fax</div></strong>
+</div>
 <div><div>Anschrift</div></div>
 <div><div>eMail / Internet</div></div>
 </div>
