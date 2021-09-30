@@ -285,7 +285,7 @@ models:
       - type: image
         name: thumb_image
         label: Bild im Blog-Feed
-        description: The image shown in the blog feed
+        description: Bild im Blog-Feed
       - type: string
         name: thumb_image_alt
         label: Image alt text (blog feed)
