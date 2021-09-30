@@ -53,13 +53,6 @@
                 "style": "icon",
                 "has_subnav": false,
                 "icon_class": "impressum"
-            },
-            {
-                "label": "Preise",
-                "url": "/preise",
-                "style": "icon",
-                "has_subnav": false,
-                "icon_class": "preise"
             }
         ]
     },
