@@ -51,7 +51,8 @@
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link",
-                "has_subnav": false
+                "has_subnav": false,
+                "icon_class": "beschreibung"
             },
             {
                 "label": "Preise",
