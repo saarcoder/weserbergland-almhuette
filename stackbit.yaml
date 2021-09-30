@@ -257,7 +257,7 @@ models:
       - type: image
         name: image
         label: Hintergrundbild
-        description: The image shown in the background of the page header
+        description: Bild im Hintergrund des Seitenkopfs
       - type: model
         name: seo
         models:
