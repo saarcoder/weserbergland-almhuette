@@ -544,7 +544,7 @@ models:
       - type: list
         name: robots
         label: Robots
-        description: The items that go into the <meta name="robots"> tag
+        description: Die Elemente des <meta name="robots"> tag
         items:
           type: enum
           options:
