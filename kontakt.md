@@ -46,7 +46,7 @@ layout: page
     </div>
     <div>
         <strong><div>eMail / Internet</div></strong>
-        <a href="mailto:ehrenbergids@aol.com">ehrenbergids@aol.com</a>
+        <p><a href="mailto:ehrenbergids@aol.com">ehrenbergids@aol.com</a>
         <a href="http://www.weserbergland-almhuette.de">weserbergland-almhuette.de</a>
     </div>
 </div>
