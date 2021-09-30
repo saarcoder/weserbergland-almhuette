@@ -90,7 +90,7 @@ models:
       - type: list
         name: nav_links
         label: Navigations-Links
-        description: NavigationslinkListe
+        description: Navigationslink-Liste
         items:
           type: model
           models:
