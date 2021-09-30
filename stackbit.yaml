@@ -180,7 +180,7 @@ models:
           - stackbit_page_meta
   advanced:
     type: page
-    label: Advanced
+    label: Seitenvorlage Advanced
     layout: advanced
     hideContent: true
     fields:
