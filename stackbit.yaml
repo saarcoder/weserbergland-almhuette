@@ -222,7 +222,7 @@ models:
       - type: string
         name: subtitle
         label: Untertitel
-        description: Text unterhalb des 
+        description: Text unterhalb des Seitentitels
       - type: image
         name: image
         label: Background Image
