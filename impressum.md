@@ -1,7 +1,7 @@
 ---
 title: Impressum
 seo:
-  title: Theme Style Guide
+  title: Impressum
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
