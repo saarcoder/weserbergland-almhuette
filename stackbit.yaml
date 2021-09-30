@@ -561,7 +561,7 @@ models:
         label: Extra
         description: >-
           Zusätzliche Definition von meta tags wie Open-Graph,
-          twitter, etc.
+          Twitter, etc.
         items:
           type: object
           labelField: name
