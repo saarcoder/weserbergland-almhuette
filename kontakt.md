@@ -45,7 +45,7 @@ layout: page
         <div>37620 Halle</div>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: space-between;">
-        <h6>eMail / Internet</h5>
+        <h6>eMail / Internet</h6>
         <p><a href="mailto:ehrenbergids@aol.com">ehrenbergids@aol.com</a></p>
         <p><a href="http://www.weserbergland-almhuette.de">weserbergland-almhuette.de</a></p>
     </div>
