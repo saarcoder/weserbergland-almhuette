@@ -23,7 +23,7 @@
                 "icon_class": "beschreibung"
             },
             {
-                "label": "Blog",
+                "label": "Bilder",
                 "url": "/blog",
                 "style": "link",
                 "has_subnav": false
