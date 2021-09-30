@@ -167,7 +167,7 @@ models:
         label: Gewicht
         description: >-
           Die Stelle in der Navigationsreihenfolge der Dokumentations-Seite.
-          wird sie ignoriert.
+          Für den Haupt-Abschnitt wird sie ignoriert.
       - type: string
         name: excerpt
         label: Zusammenfassung
