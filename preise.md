@@ -3,7 +3,7 @@ title: Preise
 sections:
   - section_id: hero
     type: section_hero
-    title: Hier ein paar Bilder...
+    title: Preise
     content: |
       Schauen Sie sich um!
   - section_id: showcase
