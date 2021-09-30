@@ -77,7 +77,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Libris Theme
+      value: Herzlich Willkommen auf der Almhütte Weserbergland
     - name: 'twitter:description'
       value: >-
         Sie suchen ein idyllisches Urlaubsdomizil weitab vom Verkehrslärm in den
