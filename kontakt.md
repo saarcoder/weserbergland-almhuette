@@ -46,7 +46,7 @@ layout: page
     </div>
     <div>
         <strong><div>eMail / Internet</div></strong>
-        <div></div>
+        <a href="mailto:ehrenbergids@aol.com">ehrenbergids@aol.com</a>
         <div></div>
     </div>
 </div>
