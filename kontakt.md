@@ -34,7 +34,7 @@ layout: page
 ---
 <div style="display: flex; justify-content: space-between; text-align: center;     height: 150px;">
     <div style="display: flex; flex-direction: column; justify-content: space-between;">
-        <h5>Telefon / Fax</></h5>
+        <h5>Telefon / Fax</h5>
         <div>Telefon: 05533 / 5426</div>
         <div>Mobil: 0171 / 5173559</div>
     </div>
