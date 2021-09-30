@@ -54,7 +54,7 @@
             },
             {
                 "label": "Preise",
-                "url": "https://github.com/",
+                "url": "/preise",
                 "style": "primary",
                 "has_subnav": false,
                 "icon_class": "preise"
