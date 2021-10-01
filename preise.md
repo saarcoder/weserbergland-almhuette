@@ -36,30 +36,40 @@ layout: page
 
 \<div>Jede weitere Person\</div>
 
+\<div>Kinder bis 12 Jahren \</div>
+
 \<div>Stromkosten:\</div>
+
+\<div>Endreinigung\</div>
+
+\<div>Haustiere\</div>
 
 \</div>
 
 \<div>
 
+\<div>
+
 \<div>â‚¬ 55,-- € / Übernachtung\</div>
 
-\<div>HS 01.04.-31.10., 20.12.-10.01.;\</div>
+\<div>HS 01.04. - 31.10. und 20.12. - 10.01.\</div>
 
 \<div>à 50,-- € Nebensaison\</div>
 
+\</div>
+
+\<div>zzgl. € 8,-- / Übernachtung\</div>
+
+\<div>€ 5,--/Übernachtung\</div>
+
 \<div>40 Ct/kwh\</div>
 
-\</div>
+\<div>€ 50,-- incl. Wäsche-/Handtücher\</div>
 
-zzgl. € 8,-- / Übernachtung
-
-Kinder bis 12 Jahren € 5,--/Übernachtung
-
-Haustierefrei
-
-Endreinigung€ 50,-- incl. Wäsche-/Handtücher
+\<div>frei\</div>
 
 \</div>
 
-Nähere Informationen bekommen Sie gerne über Telefon oder Mail.
+\</div>
+
+\<p>Nähere Informationen bekommen Sie gerne über Telefon oder Mail.\</p>
