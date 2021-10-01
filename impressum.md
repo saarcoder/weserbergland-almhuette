@@ -45,4 +45,4 @@ layout: page
         <img style="margin: auto; border: 2px solid #333;" src="/images/impress.jpg" alt="" width="168" height="225" />
 </div>
 <br>
-<p>Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>t der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
+<p>Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
