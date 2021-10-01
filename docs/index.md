@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Welcome to Libris
+      value: Urlaub ist da...
     - name: 'twitter:description'
       value: kurze Hausbeschreibung
 layout: docs
