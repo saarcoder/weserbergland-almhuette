@@ -32,11 +32,11 @@ layout: page
 <div>
     <div>
         <strong>Ingrid Ehrenberg</strong>
+        <p>Ingrid Ehrenberg<</p>
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
-        
+
     </div>
     <div></div>
 </div>
