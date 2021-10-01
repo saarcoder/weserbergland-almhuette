@@ -10,8 +10,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Winterparadies
-        title_url: /images/02.jpg
+      - title_url: /images/02.jpg
       - title_url: /images/05.jpg
 seo:
   title: Showcase
