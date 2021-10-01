@@ -138,7 +138,7 @@ models:
           For example, value "/" will place all documentation pages at the site
           root, while value "/docs" will place all documentation pages under the
           "/docs" path.
-        default: /docs
+        default: /beschreibung
         required: true
       - type: list
         name: sections
