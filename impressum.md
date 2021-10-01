@@ -32,6 +32,7 @@ layout: page
 <div>
     <div>
         <strong>Ingrid Ehrenberg</strong>
+        <br>
         <address>
             Ingrid Ehrenberg
             <br>Sonnenberg 6
