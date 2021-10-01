@@ -40,11 +40,6 @@ Als Gastgeber stehen wir Ihnen jederzeit mit Wandertipps, Restaurantempfehlungen
 
 Sollten Sie ein Hundeliebhaber sein aber leider keine Fellnase halten dürften oder können, trozdem gern einmal einen "Hundespaziergang" machen möchten, steht Ihnen mein absolut gehorsamer Bordercollie "Karlchen" jederzeit gern zur Verfügung.
 
-file, the installation of dependencies will be driven by that, with an npm-shrinkwrap.json taking precedence if both files exist. See package-lock.json and npm-shrinkwrap.
-
-Tellus integer feugiat scelerisque varius morbi enim. Mattis ullamcorper velit sed ullamcorper. Risus nullam eget felis eget nunc lobortis mattis. Elementum facilisis leo vel fringilla. Sit amet venenatis urna cursus eget nunc scelerisque viverra mauris. Adipiscing elit ut aliquam purus sit amet luctus venenatis. Diam ut venenatis tellus in metus vulputate eu scelerisque felis. Dignissim convallis aenean et tortor at risus. Nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus. Aliquam sem et tortor consequat id porta nibh venenatis. Vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet. Cras sed felis eget velit aliquet sagittis. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum.
-
-Non diam phasellus vestibulum lorem sed risus ultricies. Rhoncus est pellentesque elit ullamcorper. Morbi tincidunt augue interdum velit euismod in pellentesque massa placerat. Pellentesque dignissim enim sit amet venenatis. Nisi scelerisque eu ultrices vitae auctor. Metus aliquam eleifend mi in nulla. Accumsan sit amet nulla facilisi morbi tempus iaculis. Sit amet mattis vulputate enim nulla aliquet. Tempor orci dapibus ultrices in iaculis nunc sed augue lacus. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Sit amet risus nullam eget felis eget nunc lobortis.
 
 ## NPM
 
