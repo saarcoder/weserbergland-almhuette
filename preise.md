@@ -32,7 +32,7 @@ layout: page
 <span><strong>Bis zu 2 Personen:</strong></span>
 <span>â‚¬ 55,-- € / Übernachtung HS</span>
 <span>&nbsp;</span>
-<span>HS 01.04. - 31.10. und 20.12. - 10.01.</span>
+<span>HS 01.04. - 31.10. und 20.12.-10.01.</span>
 <span>&nbsp;</span>
 <span>à 50,-- € / Übernachtung NS</span>
 <span><strong>Jede weitere Person</strong></span>
