@@ -2,14 +2,14 @@
 title: Beschreibung
 weight: 1
 seo:
-  title: Starter Theme
+  title: Beschreibung
   description: This is the starter theme page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Starter Theme
+      value: Beschreibung
       keyName: property
     - name: 'og:description'
       value: This is the starter theme page
