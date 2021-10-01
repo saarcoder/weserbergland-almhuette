@@ -2,7 +2,7 @@
 title: Preise
 seo:
   title: Preise
-  description: This is the showcase page
+  description: Preisübersicht
   extra:
     - name: 'og:type'
       value: website
