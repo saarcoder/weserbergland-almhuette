@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Showcase
+      value: Preise
     - name: 'twitter:description'
       value: Preisübersicht
     - name: 'twitter:image'
