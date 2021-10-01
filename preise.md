@@ -45,4 +45,5 @@ layout: page
 <span>€ 50,-- incl. Wäsche-/Handtücher</span>
 <span>Haustiere</span>
 <span>frei</span>
+</div>
 <p>Nähere Informationen bekommen Sie gerne über Telefon oder Mail.</p>
