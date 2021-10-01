@@ -5,7 +5,7 @@ excerpt: >-
   callouts and much more.
 seo:
   title: Ausstattung
-  description: Übersicht über die Ausstattung 
+  description: Übersicht über die Ausstattung der Ferienwohnung
   extra:
     - name: 'og:type'
       value: website
