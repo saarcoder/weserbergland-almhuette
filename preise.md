@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<div class="preistafel" style="display: grid; grid-template-columns: 1fr .8fr; grid-gap: .5rem;">
+<div class="preistafel" style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: .5rem;">
 <span><strong>Bis zu 2 Personen:</strong></span>
 <span>â‚¬ 55,-- € / Übernachtung HS</span>
 <span>&nbsp;</span>
