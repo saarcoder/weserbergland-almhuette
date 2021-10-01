@@ -15,8 +15,6 @@ sections:
         content: |
           Hier können Hunde nach Lust und Laune herumtollen
       - title_url: /images/05.jpg
-        content: |
-          Blick aus dem Garten
 seo:
   title: Showcase
   description: This is the showcase page
