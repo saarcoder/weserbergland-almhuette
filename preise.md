@@ -32,8 +32,8 @@ layout: page
 <span>Bis zu 2 Personen:</span>
 <span>Jede weitere Person</span>
 <span>Kinder bis 12 Jahren </span>
-<span>Stromkosten:</div>
-<div>Endreinigung</div>
+<span>Stromkosten:</span>
+<div>Endreinigung</span>
 <div>Haustiere</div>
 </div>
 <div>
