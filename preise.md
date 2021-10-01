@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Showcase
+      value: Preise
       keyName: property
     - name: 'og:description'
       value: Preisübersicht
