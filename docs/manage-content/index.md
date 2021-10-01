@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: Ausstattung
     - name: 'twitter:description'
-      value: This is the manage content page
+      value: Übersicht über die Ausstattung der Ferienwohnung
 layout: docs
 ---
 
