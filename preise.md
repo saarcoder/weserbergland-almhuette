@@ -43,6 +43,4 @@ layout: page
 <div>40 Ct/kwh</div>
 <div>€ 50,-- incl. Wäsche-/Handtücher</div>
 <div>frei</div>
-</div>
-</div>
 <p>Nähere Informationen bekommen Sie gerne über Telefon oder Mail.</p>
