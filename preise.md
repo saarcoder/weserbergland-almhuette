@@ -29,7 +29,7 @@ seo:
 layout: page
 ---
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: .5rem;">
-<span>Bis zu 2 Personen:</span>
+<span><strong>Bis zu 2 Personen:</span>
 <span>â‚¬ 55,-- € / Übernachtung</span>
 <span>&nbsp;</span>
 <span>HS 01.04. - 31.10. und 20.12. - 10.01.</span>
