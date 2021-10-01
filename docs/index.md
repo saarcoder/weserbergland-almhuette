@@ -22,7 +22,7 @@ seo:
 layout: docs
 ---
 
-## wo man sich zuhause fühlt!
+## 
 ![Symbolbild Sonnenblumen](../../images/sonnenblumenorg.jpg "Zuhause fühlen!")
 
 ***
