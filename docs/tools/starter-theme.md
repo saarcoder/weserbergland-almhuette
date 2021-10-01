@@ -32,7 +32,7 @@ In der Außenanlage finden Sie ein Carport, Holzlagerplatz, großer Hof zum Spie
 
  
 
-Highlights der Umgebung
+## Highlights der Umgebung
 Der durch den Lügenbaron Münchhausen bekannte Ort Bodenwerder liegt 4 Km entfernt und bietet dem Besucher ein umfangreiches Freizeitangebot (Schwimmbad mit Saunalandschaft, Angeln, Dampferrundfahrten, evtl. kombiniert mit einem Fahrradausflug, Sommerrodelbahn und natürlich alle Sehenswürdigkeiten, die mit dem Lügenbaron Münchhausen im Zusammenhang stehen). Zur weiteren Information über Veranstaltungen (z.B. die weit über die regionalen Grenzen hinaus bekannte „Weserbeleuchtung" am 2. Samstag im August j. J.) klicken Sie auf die Homepage www.bodenwerder.de. Auch die naheliegende Kurstadt Bad Pyrmont (www.Bad-Pyrmont.de) ist mit seinen Parkanlagen, Casino, mediterranen Veranstaltungen usw. immer einen Ausflug wert.
 
 Infos zum Gastgeber
