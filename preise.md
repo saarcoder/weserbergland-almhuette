@@ -32,7 +32,7 @@ layout: page
 <span>Bis zu 2 Personen:</span>
 <span>â‚¬ 55,-- € / Übernachtung</span>
 <span>&nbsp;</span>
-<span></span>
+<span>&nbsp;</span>
 <span>HS 01.04. - 31.10. und 20.12. - 10.01.</span>
 <span>à 50,-- € Nebensaison</span>
 <span>Jede weitere Person</span>
