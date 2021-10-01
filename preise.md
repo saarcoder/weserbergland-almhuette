@@ -36,8 +36,8 @@ layout: page
 <span>Endreinigung</span>
 <span>Haustiere</span>
 <span>â‚¬ 55,-- € / Übernachtung</span>
-<div>HS 01.04. - 31.10. und 20.12. - 10.01.</span>
-<div>à 50,-- € Nebensaison</div>
+<span>HS 01.04. - 31.10. und 20.12. - 10.01.</span>
+<span>à 50,-- € Nebensaison</div>
 </div>
 <div>zzgl. € 8,-- / Übernachtung</div>
 <div>€ 5,--/Übernachtung</div>
