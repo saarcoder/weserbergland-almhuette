@@ -29,7 +29,7 @@ seo:
 layout: page
 ---
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
-<span>Bis zu 2 Personen:</div>
+<span>Bis zu 2 Personen:</span>
 <div>Jede weitere Person</div>
 <div>Kinder bis 12 Jahren </div>
 <div>Stromkosten:</div>
