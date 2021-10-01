@@ -24,7 +24,7 @@ sections:
           ![](images/01.jpg)
         actions:
           - label: Bilder zeigen
-            url: /showcase
+            url: /bilder
             style: link
       - title: Preise
         content: >
