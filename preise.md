@@ -30,7 +30,7 @@ layout: page
 ---
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
 <div style="display: grid">
-<div style="grid-row>Bis zu 2 Personen:</div>
+<div style="grid-row: 1 / span 6">Bis zu 2 Personen:</div>
 <div>Jede weitere Person</div>
 <div>Kinder bis 12 Jahren </div>
 <div>Stromkosten:</div>
