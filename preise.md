@@ -46,4 +46,5 @@ layout: page
 <span>Haustiere</span>
 <span>frei</span>
 </div>
+<br>
 <p>Nähere Informationen bekommen Sie gerne über Telefon oder Mail.</p>
