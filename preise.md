@@ -47,5 +47,3 @@ layout: page
 <span>frei</span>
 <span>Nähere Informationen bekommen Sie gerne über Telefon oder Mail.</span>
 </div>
-<br>
-<p></p>
