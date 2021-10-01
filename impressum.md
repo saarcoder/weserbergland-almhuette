@@ -37,7 +37,8 @@ layout: page
             <br>Sonnenberg 6
             <br>37620 Halle
             <br>
-            <br>Telefon: 05533 / 5426</p><p>Mobil: 0171/5173559&nbsp;</p><p>eMail:<br><a href="mailto:Ehrenbergids@aol.com">Ehrenbergids@aol.com</a></p><p>&nbsp;</p><p>Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
+            <br>Telefon: 05533 / 5426</p><p>Mobil: 0171/5173559&nbsp;</p>
+            <p>eMail:<br><a href="mailto:Ehrenbergids@aol.com">Ehrenbergids@aol.com</a></p><p>&nbsp;</p><p>Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
         </address>
         <p></p>
 
