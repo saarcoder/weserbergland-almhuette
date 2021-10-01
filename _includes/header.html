@@ -27,7 +27,7 @@
               
               {% include action_link.html action=action %}
               {% if action.has_subnav and action.subnav_links %}
-                <button class="submenu-toggle"><span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span></button>
+                <button class="submenu-toggle"><span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Unter-Menü</span></button>
                 
                 {% include submenu.html submenu=action.subnav_links menu_class='submenu' page=page %}
               {% endif %}
