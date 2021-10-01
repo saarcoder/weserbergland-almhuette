@@ -22,7 +22,9 @@ seo:
     - name: 'twitter:title'
       value: 'Urlaub ist da, wo man sich zuhause fühlt!'
     - name: 'twitter:description'
-      value: kurze Hausbeschreibung
+      value: >-
+        Uriges Holzhaus für 5 oder mehr Personen auf 1200m² Grundstück direkt am
+        Waldrand im Weserbergland
     - name: 'og:image'
       value: images/30.jpg
       keyName: property
