@@ -30,7 +30,7 @@ layout: page
 ---
 <h5>Inhaltlich verantwortlich gemäß §6 MDStV:</h5>
 <div>
-    <div>
+    <div style="display: flex>
         <p><strong>Ingrid Ehrenberg</strong></p>
         <address style="font-style: normal">
             Ingrid Ehrenberg
