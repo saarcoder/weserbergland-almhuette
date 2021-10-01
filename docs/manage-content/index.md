@@ -25,25 +25,4 @@ seo:
 layout: docs
 ---
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit.** Donec ut nulla laoreet, finibus purus sit amet, ullamcorper felis. Aliquam sagittis consectetur ullamcorper. Ut dapibus ex a nibh euismod tincidunt. Vestibulum quam velit, placerat vel ipsum eget, vulputate aliquet nibh. Cras hendrerit, justo a sagittis pharetra, ante elit imperdiet quam, eget euismod mauris lacus at eros. Sed et est interdum leo ultricies feugiat non non est. Aenean sit amet sollicitudin tellus, at pellentesque massa. Vestibulum dapibus magna quis dui ultrices vestibulum.
-
-## Stack Overflow
-
-Suspendisse hendrerit maximus metus in placerat. In ligula magna, efficitur sed ultrices non, iaculis ut ligula. Sed finibus efficitur cursus. Proin quis molestie purus. Vestibulum ut magna eget tortor tempor egestas eget eu orci. Integer porta cursus rutrum. Quisque porta suscipit sem, et tincidunt felis malesuada vel. 
-
-## Popular Discussion Forums
-
-Donec eget tellus magna. Duis eu metus sem. Donec nec ullamcorper dui. Phasellus turpis mauris, lacinia ac imperdiet eu, dapibus eu metus. Vestibulum porta lectus vel dui eleifend pretium. Nulla facilisi. Nam luctus quam at velit congue tincidunt. Ut tempus justo at urna varius commodo.
-
-## Twitter
-
-Vestibulum maximus volutpat eros a lobortis. Duis cursus neque id sollicitudin vehicula. Morbi varius dapibus est, sed bibendum diam aliquam eu. Morbi maximus consequat sem id vestibulum.
-
-Nam semper, augue pharetra commodo commodo, magna augue ornare ligula, ut gravida nisi nulla vel velit. Quisque tincidunt posuere ex eget luctus.
-
-**Sed a dui in turpis porttitor hendrerit quis id odio.**
+Ein Kinderbettchen, ein Badezimmer mit einer Eckbadewanne und integrierter Dusche, ein separates Gäste-WC mit großzügiger Waschgelegenheit und die Dusche im Saunabereich vervollständigen den Komfort. Der Wohnraum ist ausgestattet mit einem großen Esstisch, Wohnlandschaft, Kaminofen, offener Durchgang zur Küche, die mit Grundnahrungsmitteln (Mehl, Zucker, Salz, Gewürze) ständig bestückt ist. Geschirrspüler, Mikrowelle, Backofen, Gefrierschrank, Fondue, Racelette, Tischgrill, Außengrill und sämtliche elektrischen Küchengeräte sind vorhanden. Von Weingläsern über Küchengeschirr bis zum festlichen Essservice ist die Ausstattung komplett für mehr als 6 Personen. Handtücher, Bettwäsche, Bademäntel, Hausschuhe usw. sind im Preis inbegriffen.
