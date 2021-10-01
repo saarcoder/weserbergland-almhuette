@@ -30,7 +30,6 @@ layout: page
 ---
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
 <span>Bis zu 2 Personen:</span>
-
 <span>â‚¬ 55,-- € / Übernachtung</span>
 <span>Jede weitere Person</span>
 <span>Kinder bis 12 Jahren </span>
