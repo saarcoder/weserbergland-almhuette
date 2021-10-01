@@ -41,7 +41,7 @@ layout: page
 <span>€ 5,--/Übernachtung</span>
 <span><strong>Stromkosten:</strong></span>
 <span>40 Ct/kwh</span>
-<span><strong>Endreinigung</span>
+<span><strong>Endreinigung</strong></span>
 <span>€ 50,-- incl. Wäsche-/Handtücher</span>
 <span><strong>Haustiere</span>
 <span>frei</span>
