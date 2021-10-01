@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Welcome to Libris
     - name: 'twitter:description'
-      value: This is the documentation page
+      value: kurze Hausbeschreibung
 layout: docs
 ---
 ## wo man sich zuhause fühlt!
