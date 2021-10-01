@@ -37,11 +37,11 @@ layout: page
 <span>à 50,-- € Nebensaison</span>
 <span><strong>Jede weitere Person</span>
 <span>zzgl. € 8,-- / Übernachtung</span>
-<span>Kinder bis 12 Jahren </span>
+<span><strong>Kinder bis 12 Jahren </span>
 <span>€ 5,--/Übernachtung</span>
-<span>Stromkosten:</span>
+<span><strong>Stromkosten:</span>
 <span>40 Ct/kwh</span>
-<span>Endreinigung</span>
+<span><strong>Endreinigung</span>
 <span>€ 50,-- incl. Wäsche-/Handtücher</span>
 <span>Haustiere</span>
 <span>frei</span>
