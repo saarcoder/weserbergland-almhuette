@@ -31,7 +31,8 @@ layout: page
 <h5>Inhaltlich verantwortlich gemäß §6 MDStV:</h5>
 <div>
     <div>
-        <strong>
+        <strong>Ingrid Ehrenberg</strong>
+        
     </div>
     <div></div>
 </div>
