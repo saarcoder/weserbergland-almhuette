@@ -30,9 +30,9 @@ layout: page
 ---
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
 <span>Bis zu 2 Personen:</span>
-<div>Jede weitere Person</span>
-<div>Kinder bis 12 Jahren </span>
-<div>Stromkosten:</div>
+<span>Jede weitere Person</span>
+<span>Kinder bis 12 Jahren </span>
+<span>Stromkosten:</div>
 <div>Endreinigung</div>
 <div>Haustiere</div>
 </div>
