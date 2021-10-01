@@ -41,8 +41,6 @@ layout: page
             <br>Mobil: 0171/5173559
             <br>eMail:<a href="mailto:Ehrenbergids@aol.com">Ehrenbergids@aol.com</a>
         </address>
-        <br>
-
     </div>
     <div>
         <img style="" src="../images/impress.jpg" alt="" width="168" height="225">
