@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Starter Theme
+      value: Beschreibung
     - name: 'twitter:description'
       value: This is the starter theme page
 layout: docs
