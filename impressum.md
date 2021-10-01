@@ -35,7 +35,7 @@ layout: page
         <address>
             Ingrid Ehrenberg
             </br>Sonnenberg 6
-            </br>37620 Halle</p>
+            </br>37620 Halle
         </address>
         <p></p>
 
