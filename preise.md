@@ -32,6 +32,7 @@ layout: page
 <span>Bis zu 2 Personen:</span>
 <span>â‚¬ 55,-- € / Übernachtung</span>
 <span></span>
+<span></span>
 <span>Jede weitere Person</span>
 <span>Kinder bis 12 Jahren </span>
 <span>Stromkosten:</span>
