@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Welcome to Libris
+      value: Urlaub ist da...
       keyName: property
     - name: 'og:description'
       value: kurze Hausbeschreibung
