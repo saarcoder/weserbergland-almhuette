@@ -31,8 +31,7 @@ layout: page
 <h5>Inhaltlich verantwortlich gemäß §6 MDStV:</h5>
 <div>
     <div>
-        <strong>Ingrid Ehrenberg</strong>
-        <br>
+        <strong>Ingrid Ehrenberg</strong></p>
         <address>
             Ingrid Ehrenberg
             <br>Sonnenberg 6
