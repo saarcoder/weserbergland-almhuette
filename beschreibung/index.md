@@ -14,7 +14,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        uriges Holzhaus für 5 oder mehr Personen auf 1200m² Grundstück direkt am
+        Uriges Holzhaus für 5 oder mehr Personen auf 1200m² Grundstück direkt am
         Waldrand im Weserbergland
       keyName: property
     - name: 'twitter:card'
