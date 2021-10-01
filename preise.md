@@ -38,7 +38,7 @@ layout: page
 <span><strong>Jede weitere Person</strong></span>
 <span>zzgl. € 8,-- / Übernachtung</span>
 <span><strong>Kinder bis 12 Jahren</strong></span>
-<span>€ 5,--/Übernachtung</span>
+<span>€ 5,--/ Übernachtung</span>
 <span><strong>Stromkosten:</strong></span>
 <span>40 Ct/kwh</span>
 <span><strong>Endreinigung</strong></span>
