@@ -1,5 +1,6 @@
 root_docs_path: /docs
 sections:
+  - tools
   - manage-content
   - faq
   - community
