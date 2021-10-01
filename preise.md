@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-space: .5rem;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: .5rem;">
 <span>Bis zu 2 Personen:</span>
 <span>â‚¬ 55,-- € / Übernachtung</span>
 <span>&nbsp;</span>
