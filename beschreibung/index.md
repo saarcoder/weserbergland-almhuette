@@ -3,7 +3,7 @@ title: 'Urlaub ist da, wo man sich zuhause fühlt!'
 seo:
   title: 'Urlaub ist da, wo man sich zuhause fühlt!'
   description: >-
-    uriges Holzhaus für 5 oder mehr Personen auf 1200m² Grundstück direkt am
+    Uriges Holzhaus für 5 oder mehr Personen auf 1200m² Grundstück direkt am
     Waldrand im Weserbergland
   extra:
     - name: 'og:type'
