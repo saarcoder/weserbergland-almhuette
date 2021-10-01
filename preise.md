@@ -33,8 +33,8 @@ layout: page
 <span>Jede weitere Person</span>
 <span>Kinder bis 12 Jahren </span>
 <span>Stromkosten:</span>
-<div>Endreinigung</span>
-<div>Haustiere</div>
+<span>Endreinigung</span>
+<span>Haustiere</div>
 </div>
 <div>
 <div>
