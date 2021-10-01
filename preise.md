@@ -34,6 +34,10 @@ layout: page
 <div></div>
 <div></div>
 <div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
 <div>Jede weitere Person</div>
 <div>Kinder bis 12 Jahren </div>
 <div>Stromkosten:</div>
