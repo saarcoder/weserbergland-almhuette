@@ -1,14 +1,16 @@
 ---
-title: Urlaub ist da, wo man sich zuhause fühlt!
+title: 'Urlaub ist da, wo man sich zuhause fühlt!'
 seo:
-  title: Urlaub ist da, wo man sich zuhause fühlt!
-  description: kurze Hausbeschreibung
+  title: 'Urlaub ist da, wo man sich zuhause fühlt!'
+  description: >-
+    uriges Holzhaus für 5 oder mehr Personen auf 1200m² Grundstück direkt am
+    Waldrand im Weserbergland
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Urlaub ist da, wo man sich zuhause fühlt!
+      value: 'Urlaub ist da, wo man sich zuhause fühlt!'
       keyName: property
     - name: 'og:description'
       value: kurze Hausbeschreibung
@@ -16,7 +18,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Urlaub ist da, wo man sich zuhause fühlt!
+      value: 'Urlaub ist da, wo man sich zuhause fühlt!'
     - name: 'twitter:description'
       value: kurze Hausbeschreibung
 layout: docs
