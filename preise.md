@@ -42,7 +42,7 @@ layout: page
 <span><strong>Stromkosten:</strong></span>
 <span>40 Ct/kwh</span>
 <span><strong>Endreinigung</strong></span>
-<span>€ 50,-- incl. Wäsche-/Handtücher</span>
+<span>50,-- incl. Wäsche-/Handtücher</span>
 <span><strong>Haustiere</strong></span>
 <span>frei</span>
 <span style="grid-column: span 2; margin-top: 2rem;">Nähere Informationen bekommen Sie gerne über Telefon oder Mail.</span>
