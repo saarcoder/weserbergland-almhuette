@@ -21,7 +21,7 @@ seo:
       value: kurze Hausbeschreibung
 layout: docs
 ---
-<div style="margin: 0 auto;"><img src="../../images/sonnenblumenorg.jpg>
+<div style="margin: 0 auto;"><img src="../../images/sonnenblumenorg.jpg">
 ![Symbolbild Sonnenblumen](../../images/sonnenblumenorg.jpg "Zuhause fühlen!")
 </div>
 ## Beschreibung
