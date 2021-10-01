@@ -12,8 +12,6 @@ sections:
     grid_items:
       - title: Winterparadies
         title_url: /images/02.jpg
-        content: |
-          Hier können Hunde nach Lust und Laune herumtollen
       - title_url: /images/05.jpg
 seo:
   title: Showcase
