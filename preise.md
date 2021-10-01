@@ -36,7 +36,7 @@ layout: page
 <span>&nbsp;</span>
 <span>à 50,-- € / Übernachtung NS</span>
 <span><strong>Jede weitere Person</strong></span>
-<span>zzgl. € 8,-- / Übernachtung</span>
+<span>zzgl. 8,-- / Übernachtung</span>
 <span><strong>Kinder bis 12 Jahren</strong></span>
 <span>€ 5,--/ Übernachtung</span>
 <span><strong>Stromkosten:</strong></span>
