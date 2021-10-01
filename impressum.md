@@ -39,10 +39,10 @@ layout: page
             <br>
             <br>Telefon: 05533 / 5426
             <br>Mobil: 0171/5173559
-            <br>eMail:<a href="mailto:Ehrenbergids@aol.com">Ehrenbergids@aol.com</a>
+            <br>eMail: <a href="mailto:Ehrenbergids@aol.com">Ehrenbergids@aol.com</a>
         </address>
     </div>
-        <img style="margin: auto; border: 2px solid #333;" src="/images/impress.jpg" alt="" width="168" height="225" />
+        <img style="margin: auto; border: 2px solid #333; margin-left: 1rem;" src="/images/impress.jpg" alt="" width="168" height="225" />
 </div>
 <br>
 <p>Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
