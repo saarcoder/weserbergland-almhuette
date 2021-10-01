@@ -1,17 +1,5 @@
 ---
 title: Preise
-sections:
-  - section_id: hero
-    type: section_hero
-    title: Preise
-    content: |
-      Schauen Sie sich um!
-  - section_id: showcase
-    type: section_grid
-    col_number: three
-    grid_items:
-      - title_url: /images/02.jpg
-      - title_url: /images/05.jpg
 seo:
   title: Showcase
   description: This is the showcase page
