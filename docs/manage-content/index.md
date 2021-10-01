@@ -5,7 +5,7 @@ excerpt: >-
   callouts and much more.
 seo:
   title: Ausstattung
-  description: This is the manage content page
+  description: Übersicht über die Ausstattung 
   extra:
     - name: 'og:type'
       value: website
