@@ -30,7 +30,9 @@ layout: page
 ---
 <h5>Inhaltlich verantwortlich gemäß §6 MDStV:</h5>
 <div>
-    <div></div>
+    <div>
+    
+    </div>
     <div></div>
 </div>
 
