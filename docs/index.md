@@ -21,7 +21,7 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-### wo man sich zuhause fühlt!
+## wo man sich zuhause fühlt!
 
 ***
 
