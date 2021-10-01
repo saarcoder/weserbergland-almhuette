@@ -1,5 +1,5 @@
 ---
-title: Urlaub ist da.
+title: Urlaub ist da, wo man sich zuhause fühlt!
 seo:
   title: Urlaub ist da...
   description: kurze Hausbeschreibung
