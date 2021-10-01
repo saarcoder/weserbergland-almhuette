@@ -35,10 +35,7 @@ layout: page
 <span>Stromkosten:</span>
 <span>Endreinigung</span>
 <span>Haustiere</span>
-</div>
-<div>
-<div>
-<div>â‚¬ 55,-- € / Übernachtung</div>
+<span>â‚¬ 55,-- € / Übernachtung</div>
 <div>HS 01.04. - 31.10. und 20.12. - 10.01.</div>
 <div>à 50,-- € Nebensaison</div>
 </div>
