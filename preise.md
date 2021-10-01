@@ -34,7 +34,7 @@ layout: page
 <span>Kinder bis 12 Jahren </span>
 <span>Stromkosten:</span>
 <span>Endreinigung</span>
-<span>Haustiere</div>
+<span>Haustiere</span>
 </div>
 <div>
 <div>
