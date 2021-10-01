@@ -21,6 +21,10 @@ seo:
       value: 'Urlaub ist da, wo man sich zuhause fühlt!'
     - name: 'twitter:description'
       value: kurze Hausbeschreibung
+    - name: 'og:image'
+      value: images/30.jpg
+      keyName: property
+      relativeUrl: true
 layout: docs
 ---
 <div style="display: grid;"><img src="../../images/sonnenblumenorg.jpg" alt="Symbolbild Sonnenblumen" style="margin: auto;"></div>
