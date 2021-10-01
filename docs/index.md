@@ -22,5 +22,4 @@ seo:
 layout: docs
 ---
 
-## 
 ![Symbolbild Sonnenblumen](../../images/sonnenblumenorg.jpg "Zuhause fühlen!")
