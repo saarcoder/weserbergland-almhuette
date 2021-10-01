@@ -29,7 +29,7 @@ seo:
 layout: page
 ---
 <h5>Inhaltlich verantwortlich gemäß §6 MDStV:</h5>
-<div style="display: flex">
+<div style="display: flex; justify-content: ">
     <div>
         <p><strong>Ingrid Ehrenberg</strong></p>
         <address style="font-style: normal">
