@@ -150,7 +150,7 @@ models:
           type: string
   docs:
     type: page
-    urlPath: '/docs/{slug}'
+    urlPath: /{slug}'
     label: Documentation Pages
     layout: docs
     folder: docs
