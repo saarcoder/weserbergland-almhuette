@@ -30,12 +30,13 @@ layout: page
 ---
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
 <span>Bis zu 2 Personen:</span>
+
+<span>â‚¬ 55,-- € / Übernachtung</span>
 <span>Jede weitere Person</span>
 <span>Kinder bis 12 Jahren </span>
 <span>Stromkosten:</span>
 <span>Endreinigung</span>
 <span>Haustiere</span>
-<span>â‚¬ 55,-- € / Übernachtung</span>
 <span>HS 01.04. - 31.10. und 20.12. - 10.01.</span>
 <span>à 50,-- € Nebensaison</span>
 <span>zzgl. € 8,-- / Übernachtung</span>
