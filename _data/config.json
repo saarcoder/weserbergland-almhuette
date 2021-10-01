@@ -17,7 +17,7 @@
             },
             {
                 "label": "Docs",
-                "url": "/docs",
+                "url": "/beschreibung",
                 "style": "icon",
                 "has_subnav": false,
                 "icon_class": "beschreibung"
