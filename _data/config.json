@@ -24,7 +24,7 @@
             },
             {
                 "label": "Bilder",
-                "url": "/showcase",
+                "url": "/bilder",
                 "style": "icon",
                 "has_subnav": false,
                 "icon_class": "bilder"
