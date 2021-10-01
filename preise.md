@@ -11,7 +11,7 @@ seo:
       value: Showcase
       keyName: property
     - name: 'og:description'
-      value: This is the showcase page
+      value: Preisübersicht
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Showcase
     - name: 'twitter:description'
-      value: This is the showcase page
+      value: Preisübersicht
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
