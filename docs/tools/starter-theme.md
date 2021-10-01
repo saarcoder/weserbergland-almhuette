@@ -40,11 +40,7 @@ Als Gastgeber stehen wir Ihnen jederzeit mit Wandertipps, Restaurantempfehlungen
 
 Sollten Sie ein Hundeliebhaber sein aber leider keine Fellnase halten dürften oder können, trozdem gern einmal einen "Hundespaziergang" machen möchten, steht Ihnen mein absolut gehorsamer Bordercollie "Karlchen" jederzeit gern zur Verfügung.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget nullam non nisi est. Enim diam vulputate ut pharetra sit amet. Malesuada fames ac turpis egestas integer eget aliquet nibh praesent. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Id leo in vitae turpis massa sed elementum. Sed elementum tempus egestas sed sed risus pretium quam. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis.
-
-## Node
-
-This command installs a package, and any packages that it depends on. If the package has a package-lock or shrinkwrap file, the installation of dependencies will be driven by that, with an npm-shrinkwrap.json taking precedence if both files exist. See package-lock.json and npm-shrinkwrap.
+file, the installation of dependencies will be driven by that, with an npm-shrinkwrap.json taking precedence if both files exist. See package-lock.json and npm-shrinkwrap.
 
 Tellus integer feugiat scelerisque varius morbi enim. Mattis ullamcorper velit sed ullamcorper. Risus nullam eget felis eget nunc lobortis mattis. Elementum facilisis leo vel fringilla. Sit amet venenatis urna cursus eget nunc scelerisque viverra mauris. Adipiscing elit ut aliquam purus sit amet luctus venenatis. Diam ut venenatis tellus in metus vulputate eu scelerisque felis. Dignissim convallis aenean et tortor at risus. Nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus. Aliquam sem et tortor consequat id porta nibh venenatis. Vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet. Cras sed felis eget velit aliquet sagittis. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum.
 
