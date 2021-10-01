@@ -47,7 +47,7 @@ sections:
           ![](images/impress.jpg)
         actions:
           - label: Preisinformationen
-            url: /style-guide
+            url: /preise
             style: link
 seo:
   title: Almhütte Weserbergland
