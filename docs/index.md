@@ -1,7 +1,7 @@
 ---
 title: Urlaub ist da...
 seo:
-  title: Welcome to Libris
+  title: 
   description: This is the documentation page
   extra:
     - name: 'og:type'
