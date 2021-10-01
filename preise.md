@@ -48,4 +48,4 @@ layout: page
 <span></span>
 </div>
 <br>
-<p>Nähere Informationen bekommen Sie gerne über Telefon oder Mail.</p>
+<p></p>
