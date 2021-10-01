@@ -42,7 +42,7 @@ layout: page
             <br>eMail: <a href="mailto:Ehrenbergids@aol.com">Ehrenbergids@aol.com</a>
         </address>
     </div>
-        <img style="margin: auto; border: 2px solid #333; margin-left: 1rem;" src="/images/impress.jpg" alt="" />
+        <img style="margin: auto; border: 2px solid #333; margin-left: 1rem;" src="/images/impress.jpg" alt="symbolbild" />
 </div>
 <br>
 <p>Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
