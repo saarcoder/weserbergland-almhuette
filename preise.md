@@ -38,7 +38,6 @@ layout: page
 <span>â‚¬ 55,-- € / Übernachtung</span>
 <span>HS 01.04. - 31.10. und 20.12. - 10.01.</span>
 <span>à 50,-- € Nebensaison</span>
-</div>
 <div>zzgl. € 8,-- / Übernachtung</div>
 <div>€ 5,--/Übernachtung</div>
 <div>40 Ct/kwh</div>
