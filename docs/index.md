@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Urlaub ist da...
+      value: Urlaub ist da, wo man sich zuhause fühlt!
       keyName: property
     - name: 'og:description'
       value: kurze Hausbeschreibung
