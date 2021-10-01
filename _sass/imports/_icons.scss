@@ -101,8 +101,9 @@
 }
 
 .home {
-    background-image(url/images/.gif)M
+    background-image(url/images/.gif);
 }
+
 .home:hover {
     background-image: url(/images/home_change.gif);
 }
