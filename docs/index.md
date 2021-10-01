@@ -1,7 +1,7 @@
 ---
 title: Urlaub ist da...
 seo:
-  title: 
+  title: Urlaub ist da...
   description: This is the documentation page
   extra:
     - name: 'og:type'
