@@ -43,7 +43,7 @@ layout: page
 <span>40 Ct/kwh</span>
 <span><strong>Endreinigung</strong></span>
 <span>€ 50,-- incl. Wäsche-/Handtücher</span>
-<span><strong>Haustiere</span>
+<span><strong>Haustiere</strong></span>
 <span>frei</span>
 </div>
 <br>
