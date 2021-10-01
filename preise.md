@@ -1,7 +1,7 @@
 ---
 title: Preise
 seo:
-  title: Showcase
+  title: Preise
   description: This is the showcase page
   extra:
     - name: 'og:type'
