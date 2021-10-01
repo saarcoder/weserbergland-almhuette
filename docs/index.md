@@ -2,7 +2,7 @@
 title: Urlaub ist da...
 seo:
   title: Urlaub ist da...
-  description: This is the documentation page
+  description: kurze Hausbeschreibung
   extra:
     - name: 'og:type'
       value: website
