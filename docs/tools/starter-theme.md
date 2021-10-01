@@ -1,5 +1,5 @@
 ---
-title: Starter Theme
+title: Ausstattung
 weight: 1
 seo:
   title: Starter Theme
