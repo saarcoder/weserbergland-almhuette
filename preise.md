@@ -34,7 +34,7 @@ layout: page
 <span>&nbsp;</span>
 <span>HS 01.04. - 31.10. und 20.12. - 10.01.</span>
 <span>&nbsp;</span>
-<span>à 50,-- € Nebensaison</span>
+<span>à 50,-- € / Übernachtung Nebensaison</span>
 <span><strong>Jede weitere Person</strong></span>
 <span>zzgl. € 8,-- / Übernachtung</span>
 <span><strong>Kinder bis 12 Jahren</strong></span>
