@@ -33,8 +33,7 @@ layout: page
     <div>
         <strong>Ingrid Ehrenberg</strong>
         <address>
-            Ingrid Ehrenberg
-            </br>Sonnenberg 6
+            Ingrid Ehrenberg</br>Sonnenberg 6
             </br>37620 Halle
         </address>
         <p></p>
