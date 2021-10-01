@@ -28,20 +28,38 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Bis zu 2 Personen â‚¬ 55,-- € / Übernachtung
+\<div style="display: grid; grid-template-columns: 1fr 1fr;">
 
-HS 01.04.-31.10., 20.12.-10.01.;
+\<div>
 
-à 50,-- € Nebensaison
+\<div>Bis zu 2 Personen:\</div>
 
-Stromkosten: 40 Ct/kwh
+\<div>Jede weitere Person\</div>
 
-Jede weitere Personzzgl. € 8,-- / Übernachtung
+\<div>Stromkosten:\</div>
+
+\</div>
+
+\<div>
+
+\<div>â‚¬ 55,-- € / Übernachtung\</div>
+
+\<div>HS 01.04.-31.10., 20.12.-10.01.;\</div>
+
+\<div>à 50,-- € Nebensaison\</div>
+
+\<div>40 Ct/kwh\</div>
+
+\</div>
+
+zzgl. € 8,-- / Übernachtung
 
 Kinder bis 12 Jahren € 5,--/Übernachtung
 
 Haustierefrei
 
 Endreinigung€ 50,-- incl. Wäsche-/Handtücher
+
+\</div>
 
 Nähere Informationen bekommen Sie gerne über Telefon oder Mail.
