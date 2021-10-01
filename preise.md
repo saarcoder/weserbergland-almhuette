@@ -28,9 +28,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Bis zu 2 Personenâ‚¬ 55,-- € / Übernachtung 
+Bis zu 2 Personen â‚¬ 55,-- € / Übernachtung
 
-HS 01.04.-31.10., 20.12.-10.01.; 
+HS 01.04.-31.10., 20.12.-10.01.;
 
 à 50,-- € Nebensaison
 
