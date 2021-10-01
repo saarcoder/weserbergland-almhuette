@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Urlaub ist da...
+      value: Urlaub ist da, wo man sich zuhause fühlt!
     - name: 'twitter:description'
       value: kurze Hausbeschreibung
 layout: docs
