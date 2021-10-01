@@ -12,7 +12,6 @@ sections:
     grid_items:
       - title: Winterparadies
         title_url: /images/02.jpg
-        image: images/02.jpg
         content: |
           Hier können Hunde nach Lust und Laune herumtollen
       - title: "Balkon mit\_ Aussicht"
