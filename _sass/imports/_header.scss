@@ -91,7 +91,6 @@
   .menu {
     -ms-flex-align: center;
     align-items: center;
-    display: -ms-flexbox;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
   }
