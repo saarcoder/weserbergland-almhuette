@@ -93,7 +93,7 @@
     align-items: center;
     display: -ms-flexbox;
     display: grid;
-    grid-temp
+    grid-template-columns: repeat();
   }
 
   .menu-item {
