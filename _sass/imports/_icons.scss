@@ -105,7 +105,8 @@
 }
 
 .home:hover {
-    filter: hue-rotate(90deg);
+        filter: saturate(1.5) hue-rotate(
+280deg) brightness(1.2);
 }
 .beschreibung {
     background-image: url(/images/beschreibung.gif);
