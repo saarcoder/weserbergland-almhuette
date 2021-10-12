@@ -137,9 +137,6 @@
     background-image: url(/images/impressum.gif);
 }
 
-.impressum:hover {
-    background-image: url(/images/impressum_change.gif);
-}
 .home:hover, .beschreibung:hover, .preise:hover, .kontakt:hover , .bilder:hover, .impressum:hover {
         filter: saturate(1.5) hue-rotate(280deg) brightness(1.2);
 }
